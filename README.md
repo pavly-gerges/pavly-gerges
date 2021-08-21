@@ -1,4 +1,4 @@
-### Hi there, i am Pavly Girgis, the co-founder of Scrappers Software team, Contents the team is working on : 
+### Hi there, i am pavl_g, the co-founder of Scrappers Software team, Contents the team is working on : 
 
 * CLI Software using Java/C/Cpp/Py.
 * Desktop Development using Swing/jfx frameworks.
@@ -8,4 +8,4 @@
 * General Knowledge ==Sockets Programming - POSIX Threads - Design Patterns==
 
 ## Join us on Discord : 
-    https://discord.gg/pFEuHsgK
+https://discord.gg/pFEuHsgK
