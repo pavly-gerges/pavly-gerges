@@ -7,5 +7,5 @@
 * Software~Hardware Co-design using Arduinos/JSerialComm & Pi4j/WiringPi on PI4b.
 * General Knowledge ==Sockets Programming - POSIX Threads - Design Patterns==
 
-## Join us on Discord : 
+##### Join us on Discord : 
 https://discord.gg/pFEuHsgK
