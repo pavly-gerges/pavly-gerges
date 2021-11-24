@@ -1,4 +1,4 @@
-### 📌 Hi there, i am pavl_g, the co-founder of Scrappers Software team, Contents the team is working on : 
+### 📌 Hi there, we are Scrappers Software team, Contents the team is working on : 
 
 * CLI Software 💻 🔳 using Java/C/Cpp/Py.
 * Desktop Development 🖥 🖱 using Swing/jfx frameworks.
@@ -10,3 +10,5 @@
 
 ##### Join us on Discord : 
 https://discord.gg/pFEuHsgK 
+
+pavl_g and 2Math0.
