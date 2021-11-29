@@ -12,3 +12,4 @@
 https://discord.gg/pFEuHsgK 
 
 Team members : pavl_g and 2Math0.
+Active members : pavl_g, find Thomas on : https://github.com/2Math0
