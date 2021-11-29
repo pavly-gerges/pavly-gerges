@@ -11,4 +11,4 @@
 ##### Join us on Discord : 
 https://discord.gg/pFEuHsgK 
 
-pavl_g and 2Math0.
+Team members : pavl_g and 2Math0.
