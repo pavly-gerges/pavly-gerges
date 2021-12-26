@@ -14,4 +14,4 @@ https://discord.gg/pFEuHsgK
 Team members : pavl_g and 2Math0. <br/>
 Active members : pavl_g, find Thomas on : https://github.com/2Math0 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scrappers-glitch&layout=compact)
