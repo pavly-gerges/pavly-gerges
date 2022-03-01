@@ -9,7 +9,7 @@
 * General Knowledge 🗃 🛡 🔧 ⚙️ 🔋 🔌==Sockets Programming - POSIX Threads - Design Patterns - General Electronics - Shell Scripting - Database - Cryptography - Build Scripts==
 
 ##### Join us on Discord : 
-https://discord.gg/pFEuHsgK 
+https://discord.gg/ZqDr3mDg 
 
 Team members : pavl_g and 2Math0. <br/>
 Active members : pavl_g, find Thomas on : https://github.com/2Math0 <br/>
