@@ -47,6 +47,8 @@ An android and embedded OSS (open-source-software) self-taught developer from th
 - [x] Embedded GNU/Linux 
 - [x] Basic calculus
 - [x] Basic Linear algebra and vector-spaces  
+- [x] GNU Makefile
+- [ ] Cmake
 - [ ] Java Instrumentation
 - [ ] GNU/Linux Virtualization
 - [ ] GNU Debugger (GDB)
