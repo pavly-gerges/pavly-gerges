@@ -34,6 +34,10 @@ An android and embedded OSS (open-source-software) self-taught developer from th
 - [x] Medical science 
 - [x] Software Design patterns
 - [x] Software/Hardware algorithms
+- [x] Applications infrastructure
+- [x] Front-end android engineering
+- [x] Back-end android engineering
+- [x] Infra-structure android engineering    
 - [x] Basic Electronics
 - [x] Basic embedded systems
 - [x] APIs Development
