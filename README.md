@@ -48,6 +48,8 @@ An android and embedded OSS (open-source-software) self-taught developer from th
 - [x] Basic calculus
 - [x] Basic Linear algebra and vector-spaces  
 - [x] GNU Makefile
+- [x] GNU-C-Compiler-Toolchains (GCC)
+- [ ] Low-Level-Virtual-Machine Toolchain-Set (LLVM)
 - [ ] Cmake
 - [ ] Java Instrumentation
 - [ ] GNU/Linux Virtualization
