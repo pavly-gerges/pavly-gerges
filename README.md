@@ -1,4 +1,4 @@
-## 📌 About: 
+## <img src="https://user-images.githubusercontent.com/60224159/202692478-bbf0d6d1-3eb6-405b-aa50-96a2dc0f6e23.svg" width=50 height=50></img> About: 
 
 An android and embedded OSS (open-source-software) self-taught developer from the medical profession, highly skilled in android and embedded systems.
 
