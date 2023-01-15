@@ -25,6 +25,7 @@ An android and embedded OSS (open-source-software) self-taught developer from th
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Android NDK -
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> AVR-Core -
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> GNU/Linux Bin-utils -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Gradle -
 <br/>
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> gnu-libc (embedded-linux and avr) -
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Arduino-Core -
