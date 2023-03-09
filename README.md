@@ -34,7 +34,7 @@ An android and embedded OSS (open-source-software) self-taught developer from th
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Pi4j-v1 -
 <br/>
 <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Pi4j-v2 -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Linux-Kernal
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Linux-Kernel
 
 ### <img src="https://user-images.githubusercontent.com/60224159/202691386-fbe87724-ed6b-4736-8d57-8705b67c24f1.svg" width=40 height=40></img> Skills: 
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Medical science -
