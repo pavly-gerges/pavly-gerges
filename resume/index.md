@@ -1,6 +1,7 @@
 # Resume
 
 ## Personal information
+
 |-------------|-------------|
 |-----------|--------|
 | Name: | Pavly Gerges | 
