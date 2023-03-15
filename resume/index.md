@@ -2,8 +2,8 @@
 
 ## Personal information
 
+| `Item` | `Data` |
 |-------------|-------------|
-|-----------|--------|
 | Name: | Pavly Gerges | 
 | Age: | 23 | 
 | Description: | Experienced OSS Embedded and Android Engineer highly proficient in java and C | 
@@ -11,7 +11,6 @@
 | Original Proficiency: | Medical Student | 
 | University: | October-6 University, Giza Governorate | 
 | Country and Region: | Egypt, Giza | 
-|-------------|-------------|
 
 ## Job Qualifications
 - [x] Java SE (Applied theory level up-to java-19).
@@ -44,73 +43,73 @@
 
 ## General Qualifications
 
-### <img src="https://user-images.githubusercontent.com/60224159/202689902-ca1164de-930f-43b8-8517-35c9c5751d06.svg" width=40 height=40></img> Languages: 
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> C/C++ -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Kotlin -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Bash (Bourne-Again Shell) - 
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> HTML/Javascript - 
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Assembly
+### <img src="https://user-images.githubusercontent.com/60224159/202689902-ca1164de-930f-43b8-8517-35c9c5751d06.svg" width=40 height=40/> Languages: 
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> C/C++ -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Kotlin -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Bash (Bourne-Again Shell) - 
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> HTML/Javascript - 
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Assembly
 
-### <img src="https://user-images.githubusercontent.com/60224159/202691115-3eb08563-3d7b-417f-a02c-9e2b7f2ed01b.svg" width=40 height=40></img> Technologies and Frameworks: 
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java Streams -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java Concurrency -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java Reflection -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java Native Interface (JNI) -
+### <img src="https://user-images.githubusercontent.com/60224159/202691115-3eb08563-3d7b-417f-a02c-9e2b7f2ed01b.svg" width=40 height=40/> Technologies and Frameworks: 
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java Streams -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java Concurrency -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java Reflection -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java Native Interface (JNI) -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Native Invocation API -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java Core Utilities -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> jSerialcomm -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> jMonkeyEngine -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Native Invocation API -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java Core Utilities -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> jSerialcomm -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> jMonkeyEngine -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Android SDK -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Android NDK -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> AVR-Core -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> GNU/Linux Bin-utils -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Gradle -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Android SDK -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Android NDK -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> AVR-Core -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> GNU/Linux Bin-utils -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Gradle -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> gnu-libc (embedded-linux and avr) -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Arduino-Core -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Kiosk-Systems -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Pi4j-v1 -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> gnu-libc (embedded-linux and avr) -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Arduino-Core -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Kiosk-Systems -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Pi4j-v1 -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Pi4j-v2 -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Linux-Kernel
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Pi4j-v2 -
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Linux-Kernel
 
-### <img src="https://user-images.githubusercontent.com/60224159/202691386-fbe87724-ed6b-4736-8d57-8705b67c24f1.svg" width=40 height=40></img> Skills: 
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Medical science -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Software Design patterns -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Software/Hardware algorithms -
+### <img src="https://user-images.githubusercontent.com/60224159/202691386-fbe87724-ed6b-4736-8d57-8705b67c24f1.svg" width=40 height=40/> Skills: 
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Medical science -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Software Design patterns -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Software/Hardware algorithms -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Applications infrastructure -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Front-end android engineering -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Back-end android engineering -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Applications infrastructure -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Front-end android engineering -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Back-end android engineering -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Infra-structure android engineering -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Basic Electronics -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Basic embedded systems -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Infra-structure android engineering -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Basic Electronics -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Basic embedded systems -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> APIs Development -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> DevOps (Github-Actions) -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Static libraries development -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Dynamic libraries development -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> APIs Development -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> DevOps (Github-Actions) -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Static libraries development -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Dynamic libraries development -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Android Java and Native modular libraries -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Embedded GNU/Linux -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Basic calculus -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Android Java and Native modular libraries -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Embedded GNU/Linux -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Basic calculus -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Basic Linear algebra and vector-spaces -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> GNU Makefile -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> GNU-C-Compiler-Toolchains (GCC) - 
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Basic Linear algebra and vector-spaces -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> GNU Makefile -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> GNU-C-Compiler-Toolchains (GCC) - 
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Low-Level-Virtual-Machine Toolchain-Set (LLVM) -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Cmake -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Java Instrumentation - 
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Low-Level-Virtual-Machine Toolchain-Set (LLVM) -
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Cmake -
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Java Instrumentation - 
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> GNU/Linux Virtualization -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> GNU Debugger (GDB) -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Applied Linear algebra and calculus -
-<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Advanced electronics and embedded systems 
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> GNU/Linux Virtualization -
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> GNU Debugger (GDB) -
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Applied Linear algebra and calculus -
+<img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20/> Advanced electronics and embedded systems 
 
 
 ## Projects of concern
@@ -123,7 +122,7 @@
 - [x]  <img src="https://user-images.githubusercontent.com/60224159/160303112-5e5850fc-52ba-4224-b845-575940b83a6b.png" width="30" height="30">  <img src="https://user-images.githubusercontent.com/60224159/160303372-8e0cc14f-5de0-4993-9f66-a018581e70ff.png" width="30" height="30"> [Pi-Kiosk](https://github.com/Software-Hardware-Codesign/Pi-Kiosk): Introduces a kiosk activator script for the raspberry pi.
 - [x] <img src="https://user-images.githubusercontent.com/60224159/180644772-63823efd-f2cf-4d13-bef5-03c92c784d52.svg" width="60" height="40">[JoyStickModule](https://github.com/Software-Hardware-Codesign/JoyStickModule): Introduces a jme interface over the pi4j io library through MCP3008.
 - [x] <img src="https://user-images.githubusercontent.com/60224159/180645356-e0442b27-adce-4796-b3ee-05e0b9406d83.svg" width="30" height="30"> [Vital Watch](https://github.com/Software-Hardware-Codesign/Vital-Watch): Introduces a bluetooth watch android application to continously monitor vitals via bluetooth UART.
-- [x] <img src="https://github.com/Software-Hardware-Codesign/svg-scraper/blob/master/project-icon.png" width="30" height="30"></img> [svg-scraper](https://github.com/Software-Hardware-Codesign/svg-scraper): Introduces a bash script that scrapes svg files from the `/usr/share/icons/` based on an abstract-extractable interface.
+- [x] <img src="https://github.com/Software-Hardware-Codesign/svg-scraper/blob/master/project-icon.png" width="30" height="30"/> [svg-scraper](https://github.com/Software-Hardware-Codesign/svg-scraper): Introduces a bash script that scrapes svg files from the `/usr/share/icons/` based on an abstract-extractable interface.
 - [x] <img src="https://play-lh.googleusercontent.com/w8vVvlRsB-k2BVWUhK4RI2hajIq5Abna527YFleuiNO40vfC6XUgImK4G2DXHWonzTA=w240-h480-rw" width=30 height=30/> [CozySnippets-Notepad](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp): An advanced open-source notepad for android written primarily in java **(currently discontinued)**. 
 - [x] <img src="https://lh3.googleusercontent.com/HvvteKsfI1Wun5IRIEyz48jYuE9jEbUbX8GbDEZvwCIfU48CBrkOl6YbwlHtOSgPUHbx" width=30 height=30/> [Covid-19-Medical Guide](https://github.com/The-Scrappers-team/COVID19): A medical guide to avoid the further transmission of the disease and to display the number of infected cases worldwide on google maps **(currently discontinued)**. 
 
