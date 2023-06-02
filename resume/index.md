@@ -1,16 +1,13 @@
 # Resume
 
-## Personal information
+## Personal Information
 
 | `Item` | `Data` |
 |-------------|-------------|
 | Name: | Pavly Gerges | 
-| Age: | 23 | 
 | Description: | Experienced OSS Embedded and Android Engineer highly proficient in java and C | 
-| Current work related to the industry: | OSS developer at jMonkeyEngine and various other OSS projects initiated by me | 
-| Original Proficiency: | Medical Student | 
-| University: | October-6 University, Giza Governorate | 
-| Country and Region: | Egypt, Giza | 
+| Current work related to the industry: | OSS developer at jMonkeyEngine and various other OSS projects | 
+| Original Proficiency: | Medical Intern | 
 
 ## Job Qualifications
 - [x] Java SE (Applied theory level up-to java-19).
@@ -19,29 +16,23 @@
 - [x] High-level and low-level design patterns.
 - [x] Software Architecture.
 - [x] Android-SDK.
-- [x] Experience in Kotlin.  
-- [x] Experience in Android-NDK and LLVM. 
-- [x] Experience in C-Unix Programming, GNU/Linux APIs and the bourne-again-shell (bash).
-- [x] Experience in Cmake and Makefile.
-- [x] Experience in sophisticated building scripts.
-- [x] Experience in Game-Engines (jMonkeyEngine).
-- [x] Experience in the JNI (Java-Native-Interface) and Native Invocation APIs.
-- [x] Experience in java reflection API. 
-- [x] Experience in java command-line tools (javac, java -jar, javadoc). 
-- [x] Experience in code refactoring and clean-code.
-- [x] Experience in debugging and testing software. 
-- [x] Experience in microcontrollers (avr) and embedded systems.
-- [x] Experience in linux systems particularly debian.  
+- [x] Kotlin.  
+- [x] Android-NDK and LLVM. 
+- [x] Unix Programming, GNU/Linux APIs and the bourne-again-shell (bash).
+- [x] CMake and Makefile.
+- [x] Game-Engines (jMonkeyEngine).
+- [x] JNI (Java-Native-Interface) and Native Invocation APIs.
+- [x] Java reflection API. 
+- [x] Java command-line tools (javac, java -jar, javadoc). 
+- [x] Code refactoring and clean-code.
+- [x] Debugging and testing software. 
+- [x] Microcontrollers (avr) and embedded systems.
+- [x] Linux systems particularly debian.  
 - [ ] A starter in Compiler Engineering.
-- [ ] Cmake (learning-in-progress).
 - [ ] Gradle Plugins (learning-in-progress).
 - [ ] Advanced Unix Programming (learning-in-progress).
 
-## Social Qualifications
-- [x] Experience working with Open-Source teams on features and bug-fixes.
-- [x] Respecting forums and OSS rules including OSS licenses.
-
-## General Qualifications
+## General Skills
 
 ### <img src="https://user-images.githubusercontent.com/60224159/202689902-ca1164de-930f-43b8-8517-35c9c5751d06.svg" width=40 height=40/> Languages: 
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Java -
@@ -138,29 +129,29 @@
 - [ ] [OpenClaw-Platformer](https://github.com/Software-Hardware-Codesign/OpenClaw): A re-implementation of the 1997 Monolith Studios Captain Claw Game orginally developed by [Petr Jašíček](https://github.com/pjasicek).
 
 ## My journey to the tech industry
-Back in 2018, i started coding as a java developer, the first exposure to code was [javatpoint](www.javatpoint.com), i joined multiple facebook groups and we were doing simple, but no simpler projects, the second exposure to code was [Derek-Banas YouTube Channel](https://www.youtube.com/@derekbanas), it has a lot of java coding tutorials and java old and new crash courses, after that, i started to gain more confidience in coding by starting to write GUI applications using the java built-in Swing Framework and at that instance, i started to read and study more about java in advance using [Java-The-Complete-Reference 7th-e](https://www.amazon.com/Java-Complete-Reference-Seventh-Osborne/dp/007063677X) mainly.
+Back in 2018, I started coding as a Java developer, my first exposure to code was [javatpoint](www.javatpoint.com), I joined multiple Facebook groups and we were doing simple, but no simpler projects, my second exposure to code was [Derek-Banas YouTube Channel](https://www.youtube.com/@derekbanas), it has a lot of Java coding tutorials and Java old and new crash courses, after that, I started to gain more confidence in coding by starting to write GUI applications using the Java built-in Swing Framework and at that instance, I started to read and study more about Java in advance using [Java-The-Complete-Reference 7th-e](https://www.amazon.com/Java-Complete-Reference-Seventh-Osborne/dp/007063677X) mainly.
 
-During 2019, i joined the medical school at October-6-University.
+In 2019, I joined the medical school.
 
-In 2019, i started learning about the android SDK, and we did it, [Thomas Meshel](https://github.com/2Math0) and I managed to publish our first android application on google play, the Cairo-Bus application, which is suspended now according to some new policies on google play.
+In 2019, I started learning about the Android SDK, and we did it, [Thomas Meshel](https://github.com/2Math0) and I managed to publish our first Android application on google play, the Cairo-Bus application, which is suspended now according to some new policies on google play.
 
-Within 2019-2020, we initiated our team under the name 'The Scrappers' which is the name of this account now, and we started a new android application ['The CozySnippets Notepad'](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp), an advanced notepad application for android written primarily in java, the application supports basic note taking, highlighting, colored text, paint and record note for each note and in addition to that, we managed to utilize the Firebase ML-Kit, the OCR (Optical-Character-Recognition) API, i agree there are a lot of issues as we haven't had that good command of clean code and software architecture yet, though i were learning hard from the Android-SDK core code......
+Within 2019-2020, we initiated our team under the name 'The Scrappers' which is the name of this account now, and we started a new Android application ['The CozySnippets Notepad'](https://play.google.com/store/apps/details?id=com.scrappers.notepadpp), an advanced notepad application for android written primarily in Java, the application supports basic note-taking, highlighting, colored text, paint and record note for each note and in addition to that, we managed to utilize the Firebase ML-Kit, the OCR (Optical-Character-Recognition) API, I agree there were a lot of issues as we haven't had that good command of clean code and software architecture yet, though I were learning hard from the Android-SDK core code.
 
-During 2020, I have met another friend [Bishoy Reyad](https://github.com/BishoyReyad), who works primarily on hardware projects with arduinos, and we managed to build the [Binary Clock](https://github.com/Software-Hardware-Codesign/BinaryClock), a simple IoT application that controls a physical binary clock through bluetooth RFCOMM, however unfortunately and again; due to tech diversity and inconsistency of the work, this project hasn't made it to a long-term-support version and it's currently discontinued too....
+In 2020, I met another friend [Bishoy Reyad](https://github.com/BishoyReyad), who works primarily on hardware projects with Arduino, and we managed to build the [Binary Clock](https://github.com/Software-Hardware-Codesign/BinaryClock), a simple IoT application that controls a physical binary clock through Bluetooth RFCOMM, however unfortunately and again; due to tech diversity and inconsistency of the work, this project hasn't made it to a long-term-support version and it's currently discontinued too.
 
-In 2020, the team was partially broken; due to technical diversion, as Thomas started learning Flutter and other web-based backend APIs and for me, i started to learn jMonkeyEngine, a complete 3D Game Engine written primarily in java with a minimalistic code first approach, and joined the forums.
+In 2020, the team was partially broken; due to technical diversion, as Thomas started learning Flutter and other web-based backend APIs and for me, I started to learn jMonkeyEngine, a complete 3D Game Engine written primarily in Java with a minimalistic code-first approach, and joined the forums.
 
-I wrote my first Arcade game using jMonkeyEngine, the [JPluto](https://www.youtube.com/watch?v=HcerZ-8IWSo), a simple arcade game with initially 2 levels, The Vast Universe and Mars, the game is designed to be standalone running on Linux game console as a Kiosk game with a custom hardware, the initial test with arduinos was successful, though a little bit chuncky, from this point, i decided to learn Embedded Systems to gain more skills to finish this project and i am now still into it....
+I wrote my first Arcade game using jMonkeyEngine, the [JPluto](https://www.youtube.com/watch?v=HcerZ-8IWSo), a simple arcade game with initially 2 levels, The Vast Universe and Mars, the game is designed to be a standalone running on Linux game console as a Kiosk game with custom hardware, the initial test with Arduino was successful, though a little bit chunky, from this point, I decided to learn Embedded Systems to gain more skills to finish this project and I am now still into it.
 
-In 2021, i did my first contribution to jMonkeyEngine, the [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/blob/master/jme3-android/src/main/java/com/jme3/view/surfaceview/JmeSurfaceView.java), an GL-ES surface-view renderer layout holder to extend jMonkeyEngine development on the android platform, and from that date, i gained a lot of confidience in the open-source industry, and i would like to give some credits to Mr [Stephen Gold](https://github.com/stephengold) and the community managers who happily support new developers........
+In 2021, I did my first contribution to jMonkeyEngine, the [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/blob/master/jme3-android/src/main/java/com/jme3/view/surfaceview/JmeSurfaceView.java), a GL-ES surface-view renderer layout holder to extend jMonkeyEngine development on the android platform, and from that date, I gained a lot of confidence in the open-source industry, and I would like to give some credits to Mr [Stephen Gold](https://github.com/stephengold) and the community managers who happily support new developers.
 
-In 2021, i started also to dig deeper into java and discover java reflection APIs and JNI APIs.
+In 2021, I started also to dig deeper into Java and discover Java reflection APIs and JNI APIs.
 
 I also did a contribution to the pi4j-featured projects for a [prototype project](https://pi4j.com/featured-projects/joystick-game/) that connects a jMonkeyEngine vehicle to a custom joystick hardware through the MCP-3008 ADC and the SPI bus.
 
-In 2022-2023 and now, i initiated the `AVR-Sandbox`, `Serial4j`, `jme-alloc`, [Google-Developers-Sohag](https://github.com/Google-Developers-Sohag) and my schedule is currently being crowded with a lot of unfinished projects, i learned a lot about project management on github through issues, milestones, projects and automation via CI/CD........and still learning....
+In 2022-2023 and now, I initiated the `AVR-Sandbox`, `Serial4j`, `jme-alloc`, [Google-Developers-Sohag](https://github.com/Google-Developers-Sohag), and my schedule is currently being crowded with a lot of unfinished projects, I learned a lot about project management on GitHub through issues, milestones, projects, and automation via CI/CD.
 
-I currently use books and documentations to learn C-Unix advanced programming to incorporate that into java applications and use this within my game and hardware projects, one example is the `Serial4j` API, an advanced full featured and easily customizable terminal IO library with a Serial-Monitor front-end API.
+I currently use books and documentation to learn Unix advanced programming, using the old-school C programming language, to incorporate that into Java applications and use this within my game and hardware projects, one example is the `Serial4j` API, an advanced full-featured and easily customizable terminal IO library with a Serial-Monitor front-end API.
 
 > Contact me 
 > 
