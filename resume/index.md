@@ -9,7 +9,7 @@
 | Current work related to the industry: | OSS developer at jMonkeyEngine and various other OSS projects | 
 | Original Proficiency: | Medical Intern | 
 
-## Skills
+## Technology Experience
 - [x] Java SE (Applied theory level up to java-19).
 - [x] Gradle (Extending and utilizing the gradle-org-API).
 - [x] OSS Projects contributor and initiator.
@@ -70,9 +70,9 @@
 ### <img src="https://user-images.githubusercontent.com/60224159/202691386-fbe87724-ed6b-4736-8d57-8705b67c24f1.svg" width=40 height=40/> Skills: 
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Medical science -
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Software Design patterns -
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Software/Hardware algorithms -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Software/Hardware algorithms (Finite-State-Automaton/DI/GoF-templates) -
 <br/>
-<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Applications infrastructure -
+<img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Applications Infrastructure -
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Front-end android engineering -
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20/> Back-end android engineering -
 <br/>
