@@ -5,12 +5,12 @@
 | `Item` | `Data` |
 |-------------|-------------|
 | Name: | Pavly Gerges | 
-| Description: | Experienced OSS Embedded and Android Engineer highly proficient in java and C | 
+| Description: | Experienced OSS Embedded and Android Engineer highly proficient in Java and C | 
 | Current work related to the industry: | OSS developer at jMonkeyEngine and various other OSS projects | 
 | Original Proficiency: | Medical Intern | 
 
-## Job Qualifications
-- [x] Java SE (Applied theory level up-to java-19).
+## Skills
+- [x] Java SE (Applied theory level up to java-19).
 - [x] Gradle (Extending and utilizing the gradle-org-API).
 - [x] OSS Projects contributor and initiator.
 - [x] High-level and low-level design patterns.
@@ -18,16 +18,16 @@
 - [x] Android-SDK.
 - [x] Kotlin.  
 - [x] Android-NDK and LLVM. 
-- [x] Unix Programming, GNU/Linux APIs and the bourne-again-shell (bash).
+- [x] Unix Programming, GNU/Linux APIs, and the bourne-again-shell (bash).
 - [x] CMake and Makefile.
 - [x] Game-Engines (jMonkeyEngine).
 - [x] JNI (Java-Native-Interface) and Native Invocation APIs.
 - [x] Java reflection API. 
 - [x] Java command-line tools (javac, java -jar, javadoc). 
-- [x] Code refactoring and clean-code.
+- [x] Code refactoring and clean code.
 - [x] Debugging and testing software. 
 - [x] Microcontrollers (avr) and embedded systems.
-- [x] Linux systems particularly debian.  
+- [x] Linux systems particularly Debian.  
 - [ ] A starter in Compiler Engineering.
 - [ ] Gradle Plugins (learning-in-progress).
 - [ ] Advanced Unix Programming (learning-in-progress).
