@@ -143,11 +143,11 @@ Within 2019-2020, we initiated our team under the name 'The Scrappers' which is 
 
 In 2020, I met another friend [Bishoy Reyad](https://github.com/BishoyReyad), who works primarily on hardware projects with Arduino, and we managed to build the [Binary Clock](https://github.com/Software-Hardware-Codesign/BinaryClock), a simple IoT application that controls a physical binary clock through Bluetooth RFCOMM, however unfortunately and again; due to tech diversity and inconsistency of the work, this project hasn't made it to a long-term-support version and it's currently discontinued too.
 
-In 2020, the team was partially broken; due to technical diversion, as Thomas started learning Flutter and other web-based backend APIs and for me, I started to learn jMonkeyEngine, a complete 3D Game Engine written primarily in Java with a minimalistic code-first approach, and joined the forums.
+In 2020, the team was partially broken; due to technical diversion, as Thomas started learning Flutter and other web-based backend APIs and, I started to learn jMonkeyEngine, a complete 3D Game Engine written primarily in Java with a minimalistic code-first approach, and joined the forums.
 
-I wrote my first Arcade game using jMonkeyEngine, the [JPluto](https://www.youtube.com/watch?v=HcerZ-8IWSo), a simple arcade game with initially 2 levels, The Vast Universe and Mars, the game is designed to be a standalone running on Linux game console as a Kiosk game with custom hardware, the initial test with Arduino was successful, though a little bit chunky, from this point, I decided to learn Embedded Systems to gain more skills to finish this project and I am now still into it.
+I wrote my first Arcade game using jMonkeyEngine, the [JPluto](https://www.youtube.com/watch?v=HcerZ-8IWSo), a simple arcade game with two levels, The Vast Universe and Mars, the game is designed to be a standalone running on Linux game console as a Kiosk game with custom hardware, the initial test with Arduino was successful, though a little bit chunky, from this point, I decided to learn Embedded Systems to gain more skills to finish this project and I am now still into it.
 
-In 2021, I did my first contribution to jMonkeyEngine, the [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/blob/master/jme3-android/src/main/java/com/jme3/view/surfaceview/JmeSurfaceView.java), a GL-ES surface-view renderer layout holder to extend jMonkeyEngine development on the android platform, and from that date, I gained a lot of confidence in the open-source industry, and I would like to give some credits to Mr [Stephen Gold](https://github.com/stephengold) and the community managers who happily support new developers.
+In 2021, I made my first contribution to jMonkeyEngine, the [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/blob/master/jme3-android/src/main/java/com/jme3/view/surfaceview/JmeSurfaceView.java), a GL-ES surface-view renderer layout holder to extend jMonkeyEngine development on the android platform, and from that date, I gained a lot of confidence in the open-source industry, and I would like to give some credits to Mr [Stephen Gold](https://github.com/stephengold) and the community managers who happily support new developers.
 
 In 2021, I started also to dig deeper into Java and discover Java reflection APIs and JNI APIs.
 
@@ -156,6 +156,9 @@ I also did a contribution to the pi4j-featured projects for a [prototype project
 In 2022-2023 and now, I initiated the `AVR-Sandbox`, `Serial4j`, `jme-alloc`, [Google-Developers-Sohag](https://github.com/Google-Developers-Sohag), and my schedule is currently being crowded with a lot of unfinished projects, I learned a lot about project management on GitHub through issues, milestones, projects, and automation via CI/CD.
 
 I currently use books and documentation to learn Unix advanced programming, using the old-school C programming language, to incorporate that into Java applications and use this within my game and hardware projects, one example is the `Serial4j` API, an advanced full-featured and easily customizable terminal IO library with a Serial-Monitor front-end API.
+
+P.S.: 
+The journey hasn't arrived at an end yet, but a new start is being accomplished when I introduced the [Automata4j](https://github.com/Software-Hardware-Codesign/Automata4j) framework as proof of the finite-state-automata theory and its life applications, and still going through [Arithmos](https://github.com/Arithmos-Algorithms/Arithmos) featuring advanced implementations of common data structures and algorithms, join me by contributing with your knowledge and skills.
 
 > Contact me 
 > 
