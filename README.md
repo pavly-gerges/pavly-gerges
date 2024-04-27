@@ -1,7 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/60224159/202692478-bbf0d6d1-3eb6-405b-aa50-96a2dc0f6e23.svg" width=50 height=50></img> About: 
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/pavl.g.1/bibliography/public/"> <img src="https://user-images.githubusercontent.com/60224159/224149444-eb6fd781-433a-48bf-a426-2992f6061ae1.png" width=220 height=30 /> </a> 
 
-An android and embedded OSS (open-source-software) self-taught developer from the medical profession, highly skilled in android and embedded systems.
+Android and embedded OSS (open-source-software) self-taught developer from the medical profession, highly skilled in android and embedded systems.
 
 ### <img src="https://user-images.githubusercontent.com/60224159/202689902-ca1164de-930f-43b8-8517-35c9c5751d06.svg" width=40 height=40></img> Languages: 
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java -
