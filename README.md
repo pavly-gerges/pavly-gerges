@@ -47,6 +47,6 @@ Hey! Welcome. My name is Pavly Gerges. I am essentially a Self-taught Android an
 <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Advanced electronics and embedded systems 
 
 #### <img src="https://user-images.githubusercontent.com/60224159/202689343-a71393c1-380f-412d-a3d8-3245bdd5a298.svg" width=40 height=40></img> Notes:
-> Currently, since i am very busy, i only accept Long-Lasting time-planned open-source projects, if you would like to start an open-source project for your organization, message me on twitter or linkedin.
+> Currently, since I am very busy, I only accept Long-Lasting time-planned open-source projects, if you would like to start an open-source project for your organization, message me on twitter or linkedin.
 
 > All the ticked items above are involved in my work (not totally utilized), non-ticked items are planned to be utilized soon.
