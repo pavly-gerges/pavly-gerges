@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: gray;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+
+            color: black;
+        }
+        header p {
+            margin: 5px 0;
+            font-size: 20px;
+            color: black;
+        }
+	header a {
+	    color: black;
+	}
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            top: 10px;
+            left: calc(50% - 50px);
+        }
+        .container {
+            padding: 20px;
+        }
+        h2 {
+            color: #1e90ff;
+            font-size: 24px;
+        }
+        p {
+            color: black;
+            font-size: 20px;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: lightblue;
+            padding: 10px;
+            text-align: center;
+        }
+        footer a {
+            color: #1e90ff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 5px 0;
+        }
+        td {
+            padding: 0px;
+        }
+        table, th, td {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+	<table>
+        <tr>
+            <td><img src="https://avatars.githubusercontent.com/u/60224159?v=4" alt="My Photo" class="avatar"></td>
+            <td>
+		<h1>Pavly Gerges (pavl_g)</h1>
+		<p>Email: pepogerges33@gmail.com</p>
+		<p>Phone: +2 01011912807</p>
+		<p>GitHub: <a href="https://github.com/pavly-gerges" target="_blank">github.com/pavly-gerges</a></p>
+		<p>Electrostat-Lab: <a href="https://github.com/Electrostat-Lab" target="_blank">Electrostat-Lab Organization</a></p>
+	    </td>
+        </tr>
+	</table>
+    </header>
+
+    <div class="container">
+          {{content}}
+    </div>
+
+</body>
+</html>
