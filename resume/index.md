@@ -13,7 +13,7 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 ## Skills:
 - **Java**: Java SE Platform - Java Reflection API - Java Native Interface (JNI) - JNI Invocation API - Java Command-line tools.
 - **Gradle**: Gradle - Gradle Plugins - Gradle Core Platform Modular Architecture - Gradle Multi-project Builds.
-- **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - PlantUML - Sonatype/Maven Deployment.
+- **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - GLSL - OpenGL - PlantUML - Sonatype/Maven Deployment.
 - **Technical Writing**: Documentation - Tutorials.
 - **Building and Automation**: CMake - BASH - JUnit - Group Testing (jme3-testable pilot API) - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL).
 - **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
