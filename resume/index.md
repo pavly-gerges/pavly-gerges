@@ -28,6 +28,8 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 **Electrostat-Lab Open-source Contributions:**
 
 ## Projects:
+My projects are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
+
 * Gradle-At-A-Glance
 > Skills: Java - Gradle - Software Architecture - Problem Analysis - Technical Writing
 
