@@ -1,4 +1,11 @@
 ## About Me and My Education:
+> Find me on different Social Platforms:
+> 
+> [<img src="https://github.com/user-attachments/assets/ab0831f0-2421-4dd6-83d0-429ef1d6f711" alt="https://github.com/pavly-gerges" width="40" height="40">](https://github.com/pavly-gerges)
+> [<img src="https://github.com/user-attachments/assets/bf2a39df-8fed-4c01-9653-b724b14145b7" width="40" height="40">](https://www.youtube.com/@pavlg3944)
+> [<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="40" height="40">](https://www.linkedin.com/in/pavly-gerges-420b81228/)
+> [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="40" height="40">](https://twitter.com/g_pavl)
+> [<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="40" height="40">](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm)
 
 Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. pavl_g, a common nickname used for API authorships and Open-Source Licenses for my projects, and the projects that I've contributed to. I'm essentially a self-taught OSS Engineer from the medical profession totally filled with the passion towards open-science and open-source Hardware/Software Engineering. I graduated from the faculty of Medicine and Surgery, October 6 University in 2023. Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. As regard to medicine, I'm currently putting my focus on Critical Care, particularly the Neuro- and Cardio-pulmonary Critical Care, and I could tell you, that the ideas captured from studying the common scientific bases have tremendously helped me over this time. All my studies in both fields run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials. I'll leave you with my compliments; that is "If you want to build something new, something ingenious, you have to have a structured way to conclude your approach and design your solution. No proceedings can be made without this point in-mind". To not make this section longer, you can read [my detailed journey to the tech industry here on this archived version](https://github.com/pavly-gerges/pavly-gerges/blob/main/resume/archived.md#my-journey-to-the-tech-industry).
 
@@ -45,10 +52,3 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 * Pi-Kiosk Interface
 * Svg-scraper Script
 * Arithmos
-
-> Contact me 
-> 
-> [<img src="https://github.com/user-attachments/assets/ab0831f0-2421-4dd6-83d0-429ef1d6f711" width="40" height="40">](https://github.com/pavly-gerges)
-> [<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="40" height="40">](https://www.linkedin.com/in/pavly-gerges-420b81228/)
-> [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="40" height="40">](https://twitter.com/g_pavl)
-> [<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="40" height="40">](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm)
