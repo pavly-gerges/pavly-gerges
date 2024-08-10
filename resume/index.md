@@ -70,6 +70,8 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 ### Automata4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Automata4j) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7014704404347949056/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7014704404347949056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BI05adX4SQKtJ99ZQvk5DQ%3D%3D) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/automata4j)
 >
+> A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
+> 
 > Skills: Java - Java Reflection API - Gradle - Object-oriented Programming - Procedural Programming (Finite Automata) - jMonkeyEngine - Embedded Systems - GitHub Actions (CI/CD) - Unit Testing - Game Programming Patterns.
 
 ### Crossplatform-template for jMonkeyEngine Games using Gradle Multi-project
