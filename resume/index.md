@@ -90,9 +90,9 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 > 
 
 ### JoystickModule API for Raspberry Pi
-> [GitHub](https://github.com/Electrostat-Lab/JoyStickModule) - [TechDemo](https://www.youtube.com/watch?v=9ZvhFQSwHF0) - [Jitpack-io](https://jitpack.io/#Electrostat-Lab/JoystickModule)
+> [GitHub](https://github.com/Electrostat-Lab/JoyStickModule) - [Pi4j-featured-project](https://www.pi4j.com/featured-projects/joystick-game/) - [TechDemo](https://www.youtube.com/watch?v=9ZvhFQSwHF0) - [Jitpack-io](https://jitpack.io/#Electrostat-Lab/JoystickModule)
 >
-> Skills: Java - Gradle - Pi4jv1 - jMonkeyEngine - Embedded Systems Design - Raspberry Pi GPIO
+> Skills: Java - Gradle - Pi4jv1 - jMonkeyEngine - Embedded Systems Design - Raspberry Pi GPIO - Technical Writing - Digital Electronics.
 > 
 
 ### ShiftAvr Framework 
