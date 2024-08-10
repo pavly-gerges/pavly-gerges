@@ -31,16 +31,30 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
 
 ### Gradle-At-A-Glance
+> [GitHub]() - [Overview Video]()
+>
 > Skills: Java - Gradle - Software Architecture - Problem Analysis - Technical Writing
 
-### [jSnapLoader API](https://github.com/Electrostat-Lab/jSnapLoader/)
+### jSnapLoader API
+> [GitHub](https://github.com/Electrostat-Lab/jSnapLoader)
+> 
 > Skills: Java - Gradle - Software Architecture - Java Google Coding Standards - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing
 
-### [Serial4j Framework](https://github.com/Electrostat-Lab/Serial4j)
+### Serial4j Framework
+> [GitHub](https://github.com/Electrostat-Lab/Serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
+>
 > Skills: Java - C/C++ - JNI - GNU/Linux Libc - Gradle Multi-project - CMake - Software Architecture - Java Google Coding Standards - Emebedded Systems - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - Hardware/Software Co-design - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing - Distributed Simulation Interfaces - jMonkeyEngine 
 
-* Jector Framework
-* Articular-ES Framework
+### Jector Framework
+> [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w)
+>
+> Skills: Java - Java Reflection API - Gradle - Concurrent Programming - jMonkeyEngine - Asynchronous Assets Loading - Object-oriented Programming - Dependency Injection (DI) - Threads - GitHub Actions (CI/CD) - Sonatype/Maven Deployment - BASH.
+
+### Articular-ES Framework
+> [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI)
+>
+> Skills: Java - Java Reflection API - Gradle - Entity-Component-System Architecture - Data-centered designs - Object-oriented Programming - jMonkeyEngine - Game Development - 
+
 * Automata4j Framework
 * Crossplatform-template for jMonkeyEngine Games using Gradle Multi-project.
 * Electrostatic-Sandbox SDK Suite (WIP)
