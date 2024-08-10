@@ -30,13 +30,13 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 ## Projects:
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
 
-* Gradle-At-A-Glance
+### Gradle-At-A-Glance
 > Skills: Java - Gradle - Software Architecture - Problem Analysis - Technical Writing
 
-* [jSnapLoader API](https://github.com/Electrostat-Lab/jSnapLoader/)
+### [jSnapLoader API](https://github.com/Electrostat-Lab/jSnapLoader/)
 > Skills: Java - Gradle - Software Architecture - Java Google Coding Standards - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing
 
-* [Serial4j Framework](https://github.com/Electrostat-Lab/Serial4j)
+### [Serial4j Framework](https://github.com/Electrostat-Lab/Serial4j)
 > Skills: Java - C/C++ - JNI - GNU/Linux Libc - Gradle Multi-project - CMake - Software Architecture - Java Google Coding Standards - Emebedded Systems - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - Hardware/Software Co-design - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing - Distributed Simulation Interfaces - jMonkeyEngine 
 
 * Jector Framework
