@@ -92,12 +92,16 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 ### Jme3-testable API
 > [GitHub](https://github.com/Electrostat-Lab/Jme3-testable) - [TechDemo](https://www.youtube.com/watch?v=u9biai9Yg38&t=27s)
 >
+> An API designed to provide the core for synchronous group testing through the Java Reflection API Annotations. This is an initial implementation for the testable api, targeting issue [jMonkeyEngine#1649](https://github.com/jMonkeyEngine/jmonkeyengine/issues/1649), which suggests building a better test chooser backend for jme3-examples, where one can pickup which test cases to run inside a package.
+> 
 > Skills: Java - Java Reflection API - Concurrent Programming - Gradle - jMonkeyEngine - Group Testing - Unit Testing.
 >
 
 ### Game-HCI
 > [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo1](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [TechDemo2](https://www.youtube.com/watch?v=Jog8FdHDeOU) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
 >
+> An Android API housing useful re-usbable Human-computer Interfaces (HCI) in the form of in-game android views with an integration API for jMonkeyEngine featuring the Model-View-Controller (MVC) Architecture for designing GUI components and providing a binding API to the jMonkeyEngine Lifecycle. The API has a couple of cool ready-to-use components, including but not limited to, a `GameStickView` component and a `ControllerButtonsView` component, a `DrivingWheelView` component, a `GullWing` component for spacecrafts, a `Tachometer` and a `UTurnView` generically for vehicles, plus other Android Menustate items. The API is available on `Jitpack-io` for public use.
+> 
 > Skills: Java - Java Reflection API - Android SDK - Linear Algebra - Android Application Development - MVC Architectural design - Concurrent Programming - Gradle - jMonkeyEngine - Game Development.
 >
 
