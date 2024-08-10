@@ -78,10 +78,19 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 >
 
 ### Jme3-testable API
+> [GitHub](https://github.com/Electrostat-Lab/Jme3-testable) - [TechDemo](https://www.youtube.com/watch?v=u9biai9Yg38&t=27s)
+>
+> Skills: Java - Java Reflection API - Concurrent Programming - Gradle - jMonkeyEngine - Group Testing - Unit Testing.
+>
 
 ### Game-HCI
+> [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
+>
+> Skills: Java - Java Reflection API - Android SDK - Linear Algebra - Android Application Development - MVC Architectural design - Concurrent Programming - Gradle - jMonkeyEngine - Game Development.
+>
 
 ### jme-alloc
+
 
 ### JoystickModule API for Raspberry Pi
 
