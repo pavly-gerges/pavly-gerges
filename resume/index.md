@@ -53,15 +53,18 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 > 
 > Skills: Java - C/C++ - JNI - GNU/Linux Libc - Gradle Multi-project - CMake - Software Architecture - Java Google Coding Standards - Emebedded Systems - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - Hardware/Software Co-design - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing - Distributed Simulation Interfaces - jMonkeyEngine 
 
-
 ### Jector Framework
 > [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
 >
+> An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications. Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
+> 
 > Skills: Java - Java Reflection API - Gradle - Concurrent Programming - jMonkeyEngine - Asynchronous Assets Loading - Object-oriented Programming - Dependency Injection (DI) - Threads - GitHub Actions (CI/CD) - Sonatype/Maven Deployment - BASH.
 
 ### Articular-ES Framework
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
 >
+> An entity component system (ECS) framework featuring strong articulations among components from different systems through controller interfaces. The API is powered by a caching system that enables caching data in different configurations. Operational interactions take place within the system manager through the controller objects. The API provides a strong abstraction based on the data-centered architecture with the ability to model complex systems, such as: Human Interface Devices (HID) APIs, and language processing and translational APIs. The framework is composed structurally of `Systems`, `Entities`, `Modules`, and `Components`, while behaviorly of `SystemControllers` and `DataPipes`.
+> 
 > Skills: Java - Java Reflection API - Gradle - Entity-Component-System Architecture - Data-centered designs - Object-oriented Programming - jMonkeyEngine - GitHub Actions (CI/CD) - Game Development. 
 
 ### Automata4j Framework
