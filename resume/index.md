@@ -71,12 +71,6 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 >
 > Skills: Unix/POSIX - CMake - C/C++ Programming - Systems Engineering - Java - Gradle - BASH - Compilers Front-end APIs - API Design - Mathematics - Electronics - Embedded Systems - Embedded System Design - Networking Infrastructure - Distributed Simulations - Journals Study (NTRS/IEEE/ACM) - GitHub Actions.
 
-### ShiftAvr Framework 
-> [GitHub](https://github.com/Electrostat-Lab/Cross-platform-template) 
->
-> Skills: Java - Gradle Multiproject - jMonkeyEngine - Crossplatform Application Development 
->
-
 ### Jme3-testable API
 > [GitHub](https://github.com/Electrostat-Lab/Jme3-testable) - [TechDemo](https://www.youtube.com/watch?v=u9biai9Yg38&t=27s)
 >
@@ -84,13 +78,26 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 >
 
 ### Game-HCI
-> [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
+> [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo1](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [TechDemo2](https://www.youtube.com/watch?v=Jog8FdHDeOU) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
 >
 > Skills: Java - Java Reflection API - Android SDK - Linear Algebra - Android Application Development - MVC Architectural design - Concurrent Programming - Gradle - jMonkeyEngine - Game Development.
 >
 
 ### jme-alloc
-
+> [GitHub](https://github.com/Electrostat-Lab/jme-alloc) - [Overview](https://www.youtube.com/watch?v=x1vHPwcLM_w)
+>
+> Skills: Java - Java Reflection API - JNI - Java Garbage Collectors - C/C++ Programming - jMonkeyEngine - Memory Algorithms - Memory Analytics - Unit Testing - jconsole
+> 
 
 ### JoystickModule API for Raspberry Pi
+> [GitHub](https://github.com/Electrostat-Lab/JoyStickModule) - [TechDemo](https://www.youtube.com/watch?v=9ZvhFQSwHF0) - [Jitpack-io](https://jitpack.io/#Electrostat-Lab/JoystickModule)
+>
+> Skills: Java - Gradle - Pi4jv1 - jMonkeyEngine - Embedded Systems Design - Raspberry Pi GPIO
+> 
+
+### ShiftAvr Framework 
+> [GitHub](https://github.com/Electrostat-Lab/ShiftAvr) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7051549167554375681/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7051549167554375681%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BLQ7QpzJQ4uLz6ngNdXFjQ%3D%3D)
+>
+> Skills: C/C++ Programming - CMake Multi-project - BASH - Toolchain Front-end APIs - Microcontroller Programming - Embedded Systems - Byte-flow algorithms - Embedded Systems Design - Electronics.
+>
 
