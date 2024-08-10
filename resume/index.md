@@ -47,7 +47,10 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 ### Serial4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
 >
+> A Java terminal IO framework based on the GNU/Linux termios API for communication with peripheral devices using the serial interface (e.g., USB Serial, RS232, and PS/1). The base architecture of Serial4j is based on the Data-Flow Systems, particularly Pipe-and-Filter Architectural design, so from a low-level perspective, the Filesystems and byte streams, which is very analogus conceptually to serialization and deserialization, but on wire. The pipe is the plain filesystem and byte streams, while the filters are composed of main stream filters proposed by the operating system; that is the Terminal, that controls the byte streams providing buffered, unbuffered, and line feed/return carriage buffered stream routines. Other filters are mutually exclusive parts of the architecture known as _Human-Interface-Device_ APIs and _SerialMonitor APIs_; those provide new routines to manipulate byte streams as _Data Frames_; so essentially introducing a new type of buffered streams through accumulating data via modal logic (or boolean algebra aka. bitwise operations). The framework was designed essentially to provide innovators with custom controllers to bind to jMonkeyEngine Game Lifecycle, and do a lot of crazy stuff.
+> 
 > Skills: Java - C/C++ - JNI - GNU/Linux Libc - Gradle Multi-project - CMake - Software Architecture - Java Google Coding Standards - Emebedded Systems - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - Hardware/Software Co-design - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing - Distributed Simulation Interfaces - jMonkeyEngine 
+
 
 ### Jector Framework
 > [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
