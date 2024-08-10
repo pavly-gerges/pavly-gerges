@@ -41,6 +41,8 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 
 ### jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
+>
+> A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns. This framework supports assets (e.g., gltf files and images) extraction, as well, through the `Filesystem` API provided there. The architecture basically divides the library into subsets of APIs; each of them solves a subset problem of the major problem. The library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested `if-conditions`, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`, and thus new _PlatformPredicates_ could be built on the user application side and not primarily into the main API, that creates a robust design with simple ideas picked from Discrete Mathematics and Modal Logic.
 > 
 > Skills: Java - Gradle - Software Architecture - Java Google Coding Standards - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing
 
