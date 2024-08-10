@@ -36,7 +36,7 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 > Skills: Java - Gradle - Software Architecture - Problem Analysis - Technical Writing
 
 ### jSnapLoader API
-> [GitHub](https://github.com/Electrostat-Lab/jSnapLoader)
+> [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 > 
 > Skills: Java - Gradle - Software Architecture - Java Google Coding Standards - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing
 
@@ -46,26 +46,42 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 > Skills: Java - C/C++ - JNI - GNU/Linux Libc - Gradle Multi-project - CMake - Software Architecture - Java Google Coding Standards - Emebedded Systems - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - Hardware/Software Co-design - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing - Distributed Simulation Interfaces - jMonkeyEngine 
 
 ### Jector Framework
-> [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w)
+> [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
 >
 > Skills: Java - Java Reflection API - Gradle - Concurrent Programming - jMonkeyEngine - Asynchronous Assets Loading - Object-oriented Programming - Dependency Injection (DI) - Threads - GitHub Actions (CI/CD) - Sonatype/Maven Deployment - BASH.
 
 ### Articular-ES Framework
-> [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI)
+> [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
 >
-> Skills: Java - Java Reflection API - Gradle - Entity-Component-System Architecture - Data-centered designs - Object-oriented Programming - jMonkeyEngine - Game Development - 
+> Skills: Java - Java Reflection API - Gradle - Entity-Component-System Architecture - Data-centered designs - Object-oriented Programming - jMonkeyEngine - GitHub Actions (CI/CD) - Game Development. 
 
-* Automata4j Framework
-* Crossplatform-template for jMonkeyEngine Games using Gradle Multi-project.
-* Electrostatic-Sandbox SDK Suite (WIP)
-* The Electrostatic-Sandbox Website featuring Distributed Simulation Systems.
-* ShiftAvr Framework 
-* Jme3-testable API
-* Game-HCI
-* jme-alloc
-* JoystickModule API for Raspberry Pi
-* Pi4j-featured Project
-* JPluto 
-* Pi-Kiosk Interface
-* Svg-scraper Script
-* Arithmos
+### Automata4j Framework
+> [GitHub](https://github.com/Electrostat-Lab/Automata4j) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7014704404347949056/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7014704404347949056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BI05adX4SQKtJ99ZQvk5DQ%3D%3D) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/automata4j)
+>
+> Skills: Java - Java Reflection API - Gradle - Object-oriented Programming - Procedural Programming (Finite Automata) - jMonkeyEngine - Embedded Systems - GitHub Actions (CI/CD) - Unit Testing - Game Programming Patterns.
+
+### Crossplatform-template for jMonkeyEngine Games using Gradle Multi-project
+> [GitHub](https://github.com/Electrostat-Lab/Cross-platform-template) 
+>
+> Skills: Java - Gradle Multiproject - jMonkeyEngine - Crossplatform Application Development 
+>
+
+### Electrostatic-Sandbox SDK Suite (WIP)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
+>
+> Skills: Unix/POSIX - CMake - C/C++ Programming - Systems Engineering - Java - Gradle - BASH - Compilers Front-end APIs - API Design - Mathematics - Electronics - Embedded Systems - Embedded System Design - Networking Infrastructure - Distributed Simulations - Journals Study (NTRS/IEEE/ACM) - GitHub Actions.
+
+### ShiftAvr Framework 
+> [GitHub](https://github.com/Electrostat-Lab/Cross-platform-template) 
+>
+> Skills: Java - Gradle Multiproject - jMonkeyEngine - Crossplatform Application Development 
+>
+
+### Jme3-testable API
+
+### Game-HCI
+
+### jme-alloc
+
+### JoystickModule API for Raspberry Pi
+
