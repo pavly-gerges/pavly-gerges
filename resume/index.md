@@ -72,17 +72,21 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 >
 > A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
 > 
-> Skills: Java - Java Reflection API - Gradle - Object-oriented Programming - Procedural Programming (Finite Automata) - jMonkeyEngine - Embedded Systems - GitHub Actions (CI/CD) - Unit Testing - Game Programming Patterns.
+> Skills: Java - Java Reflection API - Gradle - Object-oriented Programming - Procedural Programming (Finite Automata) - Discrete Mathematics - jMonkeyEngine - Embedded Systems - GitHub Actions (CI/CD) - Unit Testing - Game Programming Patterns.
 
 ### Crossplatform-template for jMonkeyEngine Games using Gradle Multi-project
 > [GitHub](https://github.com/Electrostat-Lab/Cross-platform-template) 
 >
+> A cross-platform template game for jMonkeyEngine providing compatibility for both desktop and android environments through Gradle multi-modular projects, in which a `core module` represents the common module among all platforms (i.e., Platform Independent Module), a `desktop` module for desktop-specific handlers (i.e., Desktop Window Managers), and an `android` module for android-specific handlers (i.e., Android Runtime Providers, Window, and Application Managers).
+> 
 > Skills: Java - Gradle Multiproject - jMonkeyEngine - Crossplatform Application Development 
 >
 
 ### Electrostatic-Sandbox SDK Suite (WIP)
 > [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
 >
+> A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES.
+> 
 > Skills: Unix/POSIX - CMake - C/C++ Programming - Systems Engineering - Java - Gradle - BASH - Compilers Front-end APIs - API Design - Mathematics - Electronics - Embedded Systems - Embedded System Design - Networking Infrastructure - Distributed Simulations - Journals Study (NTRS/IEEE/ACM) - GitHub Actions.
 
 ### Jme3-testable API
