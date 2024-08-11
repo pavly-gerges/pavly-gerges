@@ -108,18 +108,24 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 ### jme-alloc
 > [GitHub](https://github.com/Electrostat-Lab/jme-alloc) - [Overview](https://www.youtube.com/watch?v=x1vHPwcLM_w)
 >
+> A direct dynamic memory allocation API for jMonkeyEngine lwjgl-2 and Android games featuring a GC-linked API for memory scavenging using `PhantomReference` that keeps track of the buffer reference counts (internally) and the memory address of the buffer to be scavenged when a GC generation is dispatched.
+> 
 > Skills: Java - Java Reflection API - JNI - Java Garbage Collectors - C/C++ Programming - jMonkeyEngine - Memory Algorithms - Memory Analytics - Unit Testing - jconsole
 > 
 
 ### JoystickModule API for Raspberry Pi
 > [GitHub](https://github.com/Electrostat-Lab/JoyStickModule) - [Pi4j-featured-project](https://www.pi4j.com/featured-projects/joystick-game/) - [TechDemo](https://www.youtube.com/watch?v=9ZvhFQSwHF0) - [Jitpack-io](https://jitpack.io/#Electrostat-Lab/JoystickModule)
 >
+> A Java API to control a Jme Vehicle/CharacterControl/etc with an arduino JoyStick module using Pi4J-v1 implemented from native WiringPI featuring the ADC-SPI circuit, the SPI protocol, and some simple trigonometry are involved in defining the mapping for the Joystick input threshold.
+> 
 > Skills: Java - Gradle - Pi4jv1 - jMonkeyEngine - Embedded Systems Design - Raspberry Pi GPIO - Technical Writing - Digital Electronics.
 > 
 
 ### ShiftAvr Framework 
 > [GitHub](https://github.com/Electrostat-Lab/ShiftAvr) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7051549167554375681/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7051549167554375681%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BLQ7QpzJQ4uLz6ngNdXFjQ%3D%3D)
 >
+> A modern implementation of avr-core and GNU libraries for avr microcontroller units purely written in C expressing abstract interfaces for the communication protocols, everything is plain, right fresh out of the avr-gnu-libc documentation and the AVR datasheets.
+> 
 > Skills: C/C++ Programming - CMake Multi-project - BASH - Toolchain Front-end APIs - Microcontroller Programming - Embedded Systems - Byte-flow algorithms - Embedded Systems Design - Electronics.
 >
 
