@@ -17,7 +17,7 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. p
 - **Technical Writing**: Documentation - Tutorials.
 - **Building and Automation**: CMake - BASH - JUnit - Group Testing (jme3-testable pilot API) - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL).
 - **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
-- **Pure Sciences**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences - System Design.
+- **Pure Sciences**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Applied Theory - Medical and Clinical Sciences - System Design.
 - **Debugging and Profiling**: Java Utility Loggers (JUL) - jconsole - Android Profiler - Java Flight Recorder (JFR) - GNU Debugger (GDB).
 
 ## Experience:
