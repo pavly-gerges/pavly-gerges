@@ -136,7 +136,7 @@ WIP
 > - Serial Human-Interface-Device (HID) API providing specializations for serial-based devices signifying the `read()` and `write()` operations and providing preprocessing and postprocessing filtering techniques for encoding, decoding, and encryption/decryption algorithms.
 > - jMonkeyEngine integration examples with realtime data monitoring.
 >
-> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - [ShiftAvr]() - WSL - Maven central.
+> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - [ShiftAvr](https://github.com/Electrostat-Lab/ShiftAvr/) - WSL - Maven central.
 > 
 
 ## GMonitor Gradle Plugin
@@ -160,14 +160,20 @@ WIP
 > **Description**: An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications.
 >
 > **Features**: Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
-> 
+>
+> **Tools**: Java SE Platform - Gradle - jMonkeyEngine Framework.
 
 ## Articular-ES Framework
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
 >
-> An entity component system (ECS) framework featuring strong articulations among components from different systems through controller interfaces. The API is powered by a caching system that enables caching data in different configurations. Operational interactions take place within the system manager through the controller objects. The API provides a strong abstraction based on the data-centered architecture with the ability to model complex systems, such as: Human Interface Devices (HID) APIs, and language processing and translational APIs. The framework is composed structurally of `Systems`, `Entities`, `Modules`, and `Components`, while behaviorly of `SystemControllers` and `DataPipes`.
+> **Description**: An entity component system (ECS) framework featuring strong articulations among components from different systems through controller interfaces. The API is powered by a caching system that enables caching data in different configurations. Operational interactions take place within the system manager through the controller objects.
+>
+> **Architecture**: The API provides a strong abstraction based on the data-centered architecture with the ability to model complex systems, such as: Human Interface Devices (HID) APIs, and language processing and translational APIs. The framework is composed structurally of `Systems`, `Entities`, `Modules`, and `Components`, while behaviorly of `SystemControllers` and `DataPipes`.
+>
+> **Features**:
 > 
-> Skills: Java - Java Reflection API - Gradle - Entity-Component-System Architecture - Data-centered designs - Object-oriented Programming - jMonkeyEngine - GitHub Actions (CI/CD) - Game Development. 
+> **Tools**: Java SE Platform - Gradle - Entity-Component-System Architecture - jMonkeyEngine Framework - GitHub Actions (CI/CD).
+> 
 
 ## Automata4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Automata4j) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7014704404347949056/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7014704404347949056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BI05adX4SQKtJ99ZQvk5DQ%3D%3D) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/automata4j)
