@@ -59,7 +59,7 @@ The current team activities are essentially:
 Upon the request of one of the Pi4j community leader, I've published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); in which I presented a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the RPI GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also adds insights on the generic circuits and the conceptual model behind ADCs and DACs circuits.
 
 ### Electrostat-Lab Open-source Contributions: 
-> OSS Embedded and Android Projects | (2020 - Present)
+> OSS Embedded and Android Projects `|` (2020 - Present)
 
 During the last 2 years, I've started my own open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization. Electrostat-Lab projects tend to solve problems arising within different domains, mainly jMonkeyEngine community, and my unfinished game [JPluto Arcade Game](https://www.youtube.com/watch?v=HcerZ-8IWSo); which should utilize a wide aspect of Hardware/Software Co-design, so typically the rendering and physics pipelines are managed using jMonkeyEngine interfaces, while the controller interfaces are built using custom peripherals and interfaced over serial and networks. The current vision of the Electrostat-Lab organization is to provide [a fully-fledged POSIX-based Open-Source Distributed Simulation Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox); and it does this perfectly by dividing the framework into several smaller frameworks and APIs of re-usable code.
 
