@@ -90,9 +90,28 @@ My first exposure to the Gradle team was providing an explanation to [an issue w
 ## jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 >
-> A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns. This framework supports assets (e.g., gltf files and images) extraction, as well, through the `Filesystem` API provided there. The architecture basically divides the library into subsets of APIs; each of them solves a subset problem of the major problem. The library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`, and thus new _PlatformPredicates_ could be built on the user application side and not primarily hard-coded into the main API leading to a robust design with simple ideas picked from Discrete Mathematics and Modal Logic. Additionally, the framework offers a stock onloading anti-failure mechanism, and a stepwise command-state pattern to handle failures from the user application side enabling the implementation of several anti-failure routines from the user side. Furthermore, memory logging and tight handling of stream resources are attained on both the normal program flow and the exceptional cases (i.e., failure cases). The framework is open-ended for user-based specializations and wrappers APIs, and is currently deployed to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master).
+> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns.
 > 
-> Skills: Java - Gradle - Software Architecture - Java Google Coding Standards - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing
+> **Features**:
+> -  Platform-specific dynamic libraries' registration.
+> -  Platform-specific dynamic libraries building using platform-specific predicates.
+> -  Locate and load external dynamic libraries directly.
+> -  File Locator and extractor routines (classpath - external jar).
+> -  Extract native libraries from the stock jar library (classpath).
+> -  Locate external jars and extract native libraries from them.
+> -  Define an extract directory path.
+> -  Retry Criterion with clean extraction.
+> -  EventDispatchers: Extraction Listeners, Loading Listeners, and System Detection Listeners.
+> -  Filesystem Failure Throwable Exceptions: binds the user API to the jSnapLoader lifecycle.
+> -  Tight handling of memory leaks; as a result of file locator and/or file extractor failures.
+> -  Memory logging of the stream providers' handlers using the object hash keys.
+> -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
+>  
+> **Robust Discrete Architecture**: The architecture basically divides the library into subsets of APIs; each of them solves a subset problem of the major problem. The library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`, and thus new _PlatformPredicates_ could be built on the user application side and not primarily hard-coded into the main API leading to a robust design with simple ideas picked from Discrete Mathematics and Modal Logic. Additionally, the framework offers a stock onloading anti-failure mechanism, and a stepwise command-state pattern to handle failures from the user application side enabling the implementation of several anti-failure routines from the user side. Furthermore, memory logging and tight handling of stream resources are attained on both the normal program flow and the exceptional cases (i.e., failure cases). The framework is open-ended for user-based specializations and wrappers APIs.
+>
+> **Used by**:
+> The framework is currently deployed to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
+> 
 
 ## Serial4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
