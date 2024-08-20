@@ -1,12 +1,5 @@
 ## About Me:
-> Find me on different Social Platforms:
-> 
-> [<img src="https://github.com/user-attachments/assets/ab0831f0-2421-4dd6-83d0-429ef1d6f711" alt="https://github.com/pavly-gerges" width="40" height="40">](https://github.com/pavly-gerges)
-> [<img src="https://github.com/user-attachments/assets/bf2a39df-8fed-4c01-9653-b724b14145b7" width="40" height="40">](https://www.youtube.com/@pavlg3944)
-> [<img src="https://user-images.githubusercontent.com/60224159/180645937-40c0954c-03f4-4807-8063-7cd6ca917a7b.svg" width="40" height="40">](https://www.linkedin.com/in/pavly-gerges-420b81228/)
-> [<img src="https://user-images.githubusercontent.com/60224159/181487461-63226149-2870-4446-a954-b4112a5cb26c.svg" width="40" height="40">](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm)
-> [<img src="https://github.com/user-attachments/assets/1d96832a-b549-4598-a3e9-ce0709dbb0bc" width="40" height="40">](https://wa.me/201011912807)
-> [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="40" height="40">](https://twitter.com/g_pavl)
+> [GitHub](https://github.com/pavly-gerges) - [YouTube](https://www.youtube.com/@pavlg3944) - [LinkedIn](https://www.linkedin.com/in/pavly-gerges-420b81228/) - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm) - [WhatsApp](https://wa.me/201011912807)
 
 Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges. I'm a self-taught OSS Engineer from the medical profession totally filled with the passion towards open-science and open-source Hardware/Software Engineering. 
 
