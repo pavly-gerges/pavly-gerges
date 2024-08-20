@@ -86,6 +86,14 @@ My first exposure to the Gradle team was providing an explanation to [an issue w
 > - _Robust Discrete Architecture_: According to the software ontology involved, the `filesystem` module deals with the primitive filesystems operations and is subdivided internally to a couple of API; `FileGenerator` component, `FileLocator` component, `FileEditor` component, `FileExtractor` component, and `FileUtils` component for extra manipulation, while the `connection-handler` module is devoted to provide the basis for the RESTful APIs, and is basically composed of `ConnectionEstablishmentHandler` component, `ConnectionMonitorHandler` component, `ConnectionInputStreamHandler` component, `ConnectionOutputStreamHandler` component, and `ConnectionListeners` component, and part of this might be categorized as a specialization of the `filesystem` APIs (i.e., depends-on/assembly relationship).
 > - _Port to Embedded Systems and superiority over the Gradle Binaries_: Essentially, the beneficence of using the C programming langauge and the GNU C Collection is that it provides the ability to ship the project or at least the most relevant parts of it to run on bare-metal RISC MCUs (e.g., the AVR ATMega32) which is superior to the current Gradle and other building tools like CMake, but a clear usage for this feature is not fully studied, yet.
 > 
+> **Tools**: Java SE Platform - Gradle Plugin API - Plant UML Component Diagraphs - Intellij IDEA - Sonatype Maven Central.
+> 
+
+## GDude Gradle Plugin
+WIP
+
+## GMake Gradle Plugin
+WIP
 
 ## jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
@@ -116,16 +124,43 @@ My first exposure to the Gradle team was providing an explanation to [an issue w
 ## Serial4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
 >
-> A Java terminal IO framework based on the GNU/Linux termios API for communication with peripheral devices using the serial interface (e.g., USB Serial, RS232, and PS/2). The base architecture of Serial4j is based on the Data-Flow Systems, particularly Pipe-and-Filter Architectural design, so from a low-level perspective, the Filesystems and byte streams, which is very analogus conceptually to serialization and deserialization, but on wire. The pipe is the plain filesystem and byte streams, while the filters are composed of main stream filters imposed by the operating system; that is the Terminal, that controls the byte streams providing buffered, unbuffered, and line feed/return carriage buffered stream routines. Other filters are mutually exclusive parts of the architecture known as _Human-Interface-Device_ APIs and _SerialMonitor APIs_; those provide new routines to manipulate byte streams as _Data Frames_; so essentially introducing a new type of buffered streams through accumulating data via modal logic (or boolean algebra aka. bitwise operations). The framework was designed essentially to provide innovators with custom controllers to bind to jMonkeyEngine Game Lifecycle, and do a lot of crazy stuff.
+> **Description**: A Java terminal IO framework based on the GNU/Linux termios API for communication with peripheral devices using the serial interface (e.g., USB Serial, RS232, and PS/2).
+>
+> **Architecture**: The base architecture of Serial4j is based on the Data-Flow Systems, particularly Pipe-and-Filter Architectural design, so from a low-level perspective, the Filesystems and byte streams, which is very analogus conceptually to serialization and deserialization, but on wire. The pipe is the plain filesystem and byte streams, while the filters are composed of main stream filters imposed by the operating system; that is the Terminal, that controls the byte streams providing buffered, unbuffered, and line feed/return carriage buffered stream routines. Other filters are mutually exclusive parts of the architecture known as _Human-Interface-Device_ APIs and _SerialMonitor APIs_; those provide new routines to manipulate byte streams as _Data Frames_; so essentially introducing a new type of buffered streams through accumulating data via modal logic (or boolean algebra aka. bitwise operations). The framework was designed essentially to provide innovators with custom controllers to bind to jMonkeyEngine Game Lifecycle for Kiosk-based systems.
+>
+> **Features**:
+> - Hierarchial modular architecture in structure separating the native libraries from the Java APIs.
+> - Cross-platform capabilities on POSIX interfaces.
+> - Low-level File I/O APIs with `java.io` APIs specializations integratable with other applications.
+> - Full terminal control modes for serial-based file I/O interpreted directly from the GNU/Linux POSIX APIs.
+> - Serial Human-Interface-Device (HID) API providing specializations for serial-based devices signifying the `read()` and `write()` operations and providing preprocessing and postprocessing filtering techniques for encoding, decoding, and encryption/decryption algorithms.
+> - jMonkeyEngine integration examples with realtime data monitoring.
+>
+> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - [ShiftAvr]() - WSL - Maven central.
 > 
-> Skills: Java - C/C++ - JNI - GNU/Linux Libc - Gradle Multi-project - CMake - Software Architecture - Java Google Coding Standards - Emebedded Systems - Discrete Mathematics - Crossplatform API Design - Sonatype/Maven Deployment - BASH - Hardware/Software Co-design - GitHub Actions (CI/CD) - jconsole - JUL - Software Testing - Distributed Simulation Interfaces - jMonkeyEngine 
+
+## GMonitor Gradle Plugin
+> [GitHub]() - [TechDemo]() - [Maven-central]()
+>
+> **Description**: Creates a portable _Serial Monitor_ plugin to be used beside embedded systems applications on embedded linux machines and the raspberry pi through integrating the Serial4j framework into the Gradle Framework via a Gradle Plugin that distributes the jobs of the Serial4j _Serial Monitor_ into Gradle tasks.
+>
+> **Features**:
+> - Starts a continous serial monitor session on a port of user selection.
+> - Supports jMonkeyEngine application integration controls out-of-the-box.
+> - Dynamically changeable baud rate, file modes, and terminal modes.
+> - Anti-failure detection and anti-failure routines through the legacy exception handling.
+> - Layered architecture separating the concurrency and thread-dependent APIs from the terminal, low-level I/O, serial monitor, and HID APIs.
+> - Deployed for x86, x86-64, arm32, and arm64 systems as distributed dependencies on maven-central.
+>
+> **Tools**: Java SE Platform - Gradle Plugins API - [Serial4j Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j) - Maven Central - Intellij IDEA
 
 ## Jector Framework
 > [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
 >
-> An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications. Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
+> **Description**: An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications.
+>
+> **Features**: Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
 > 
-> Skills: Java - Java Reflection API - Gradle - Concurrent Programming - jMonkeyEngine - Asynchronous Assets Loading - Object-oriented Programming - Dependency Injection (DI) - Threads - GitHub Actions (CI/CD) - Sonatype/Maven Deployment - BASH.
 
 ## Articular-ES Framework
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
