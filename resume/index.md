@@ -28,14 +28,14 @@ Though I'm a medical candidate, I've got enough wisdom over these years to find 
 
 I've been contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for about 4 years**, and still contributing.
 
-#### What does the current jMonkeyEngine team do?
+### What does the current jMonkeyEngine team do?
 The current team activities are essentially:
 - Maintaining the current codebase for cross-platform game applications development.
 - Community Management.
 - Features support and Engine Releases.
 - Plugins, API design, and building sub-projects.
 
-#### What were [my activities](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period?
+### What were [my activities](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period?
 - **JmeSurfaceView**: During my first year, I proposed and introduced [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview), a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs, and it's proven comptency over time in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces). 
 
 - **ContrastAdjustmentFilter**: I worked on another shiny feature, a [ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665); that is essentially a postprocessor filter GLSL API that controls the 3D-color-gamut contrast using a power law, and was introduced in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
