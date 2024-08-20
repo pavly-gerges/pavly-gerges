@@ -1,4 +1,4 @@
-## About Me and My Education:
+## About Me:
 > Find me on different Social Platforms:
 > 
 > [<img src="https://github.com/user-attachments/assets/ab0831f0-2421-4dd6-83d0-429ef1d6f711" alt="https://github.com/pavly-gerges" width="40" height="40">](https://github.com/pavly-gerges)
@@ -8,7 +8,13 @@
 > [<img src="https://github.com/user-attachments/assets/1d96832a-b549-4598-a3e9-ce0709dbb0bc" width="40" height="40">](https://wa.me/201011912807)
 > [<img src="https://user-images.githubusercontent.com/60224159/180646113-6531aec4-66bc-44d8-9ba5-d1857e87359a.svg" width="40" height="40">](https://twitter.com/g_pavl)
 
-Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, aka. pavl_g, a common nickname used for API authorships and Open-Source Licenses for my projects, and the projects that I've contributed to. I'm essentially a self-taught OSS Engineer from the medical profession totally filled with the passion towards open-science and open-source Hardware/Software Engineering. I graduated from the [faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. As regard to medicine, I'm currently putting my focus on Critical Care, particularly the Neuro- and Cardio-pulmonary Critical Care, and I could tell you, that the ideas captured from studying the common scientific bases have tremendously helped me over this time. All my studies in both fields run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials. I'll leave you with my compliments; that is "If you want to build something new, something ingenious, you have to have a structured way to conclude your approach and design your solution. No proceedings can be made without this point in-mind". To not make this section longer, you can read [my detailed journey to the tech industry here on this archived version](https://github.com/pavly-gerges/pavly-gerges/blob/main/resume/archived.md#my-journey-to-the-tech-industry).
+Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges. I'm a self-taught OSS Engineer from the medical profession totally filled with the passion towards open-science and open-source Hardware/Software Engineering. 
+
+## My Education:
+I graduated from the [faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
+
+## Overview of my Computer Engineering education:
+Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. I'm seeking more knowledge and wisdom in the field of distributed simulation systems that combine all my studies in one place. All my studies run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials.
 
 ## Skills:
 - **Languages**: Java - Kotlin - C/C++ - Groovy - Bash (Shell Scripting).
