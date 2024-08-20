@@ -4,7 +4,7 @@
 Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges. I'm a self-taught OSS Engineer from the medical profession totally filled with the passion towards open-science and open-source Hardware/Software Engineering. 
 
 # My Education:
-I graduated from the [faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
+I graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
 
 # Overview of my Computer Engineering education:
 Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. I'm seeking more knowledge and wisdom in the field of distributed simulation systems that combine all my studies in one place. All my studies run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials.
