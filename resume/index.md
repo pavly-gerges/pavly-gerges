@@ -31,7 +31,7 @@ Though I'm a medical candidate, I've got enough wisdom over these years to find 
 > Essentially, all my contributions are entitled to open-source projects through different routes, either through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) or through self-initiated projects on [Electrostat-Lab](https://github.com/Electrostat-Lab) organization, see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
 
 ### jMonkeyEngine Contributions: 
-> Contributor | (2020 - Present)
+> Contributor `|` (2020 - Present)
 
 I've been contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for about 4 years**, and still contributing.
 
@@ -54,7 +54,7 @@ The current team activities are essentially:
 - **Beginnings of the Serial4j framework**: I designed [Serial4j](https://github.com/Electrostat-Lab/Serial4j) back in 2021, a Java Terminal I/O framework for serial interfaces (e.g., Serial USB and RS232) based on the Data-Flow and the Data-centered architectural designs, in which I've blended a lot of my skills, including but not limited to, developing APIs using C/C++, building dynamic native libraries, using Gradle and CMake to build JNI applications, testing memory leaks, designing and implementing modal logic algorithms and byte-flow patterns, hardware/software co-design, plus introducing [a vision for distributed simulation systems](https://www.youtube.com/watch?v=4GFGsH4eyJs&t=235s).
 
 ### Pi4j Contributions: 
-> Technical Writing | (2022)
+> Technical Writing `|` (2022)
 
 Upon the request of one of the Pi4j community leader, I've published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); in which I presented a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the RPI GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also adds insights on the generic circuits and the conceptual model behind ADCs and DACs circuits.
 
@@ -64,7 +64,7 @@ Upon the request of one of the Pi4j community leader, I've published a hybrid pr
 During the last 2 years, I've started my own open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization. Electrostat-Lab projects tend to solve problems arising within different domains, mainly jMonkeyEngine community, and my unfinished game [JPluto Arcade Game](https://www.youtube.com/watch?v=HcerZ-8IWSo); which should utilize a wide aspect of Hardware/Software Co-design, so typically the rendering and physics pipelines are managed using jMonkeyEngine interfaces, while the controller interfaces are built using custom peripherals and interfaced over serial and networks. The current vision of the Electrostat-Lab organization is to provide [a fully-fledged POSIX-based Open-Source Distributed Simulation Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox); and it does this perfectly by dividing the framework into several smaller frameworks and APIs of re-usable code.
 
 ### Gradle first exposure: 
-> Discussions on GitHub | (2023)
+> Discussions on GitHub `|` (2023)
 
 My first exposure to the Gradle team was providing an explanation to [an issue with the JavaDoc tooling](https://github.com/gradle/gradle/issues/18274) and [this PR](https://github.com/gradle/gradle/pull/18417), particularly using the `--release ${V}` option with the JavaDoc tool. However, I haven't got the time enough to communicate with the team and provide a fix, in addition, the team had replied back that it might take a long delay time to proceed.
 
