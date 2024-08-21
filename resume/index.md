@@ -182,58 +182,17 @@ WIP
 > 
 > Skills: Java - Java Reflection API - Gradle - Object-oriented Programming - Procedural Programming (Finite Automata) - Discrete Mathematics - jMonkeyEngine - Embedded Systems - GitHub Actions (CI/CD) - Unit Testing - Game Programming Patterns.
 
-## Crossplatform-template for jMonkeyEngine Games using Gradle Multi-project
-> [GitHub](https://github.com/Electrostat-Lab/Cross-platform-template) 
->
-> A cross-platform template game for jMonkeyEngine providing compatibility for both desktop and android environments through Gradle multi-modular projects, in which a `core module` represents the common module among all platforms (i.e., Platform Independent Module), a `desktop` module for desktop-specific handlers (i.e., Desktop Window Managers), and an `android` module for android-specific handlers (i.e., Android Runtime Providers, Window, and Application Managers).
-> 
-> Skills: Java - Gradle Multiproject - jMonkeyEngine - Crossplatform Application Development 
->
-
 ## Electrostatic-Sandbox SDK Suite (WIP)
 > [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
 >
 > A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Networking Infrastructure`, `Software Infrastructure`, and `Simulation Infrastructure`. Essentially, the `Networking Infrastructure` is composed of a common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems; which entails the use of unified application development routines among the systems in communication known as _"Federates"_ and a common data exchange routine known as _"Federation Object Model (FOM)"_, while the instantiated runtime is known as _"Federation"_, and the `Simulation Infrastructure` is composed mainly of the Hardware/Software Connection Routines provided by the `Networking Infrastructure`, in addition to `Microcontroller programming` APIs and tools. The current repository introduces a preliminary vision and the tech demo from Serial4j.
 > 
-> Skills: Unix/POSIX - CMake - C/C++ Programming - Systems Engineering - Java - Gradle - BASH - Compilers Front-end APIs - API Design - Mathematics - Electronics - Embedded Systems - Embedded System Design - Networking Infrastructure - Distributed Simulations - Journals Study (NTRS/IEEE/ACM) - GitHub Actions.
-
-## Jme3-testable API
-> [GitHub](https://github.com/Electrostat-Lab/Jme3-testable) - [TechDemo](https://www.youtube.com/watch?v=u9biai9Yg38&t=27s)
->
-> An API designed to provide the core for synchronous group testing through the Java Reflection API Annotations. This is an initial implementation for the testable api, targeting issue [jMonkeyEngine#1649](https://github.com/jMonkeyEngine/jmonkeyengine/issues/1649), which suggests building a better test chooser backend for jme3-examples, where one can pickup which test cases to run inside a package.
 > 
-> Skills: Java - Java Reflection API - Concurrent Programming - Gradle - jMonkeyEngine - Group Testing - Unit Testing.
->
 
 ## Game-HCI
 > [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo1](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [TechDemo2](https://www.youtube.com/watch?v=Jog8FdHDeOU) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
 >
 > An Android API housing useful re-usbable Human-computer Interfaces (HCI) in the form of in-game android views with an integration API for jMonkeyEngine featuring the Model-View-Controller (MVC) Architecture for designing GUI components and providing a binding API to the jMonkeyEngine Lifecycle. The API has a couple of cool ready-to-use components, including but not limited to, a `GameStickView` component and a `ControllerButtonsView` component, a `DrivingWheelView` component, a `GullWing` component for spacecrafts, a `Tachometer` and a `UTurnView` generically for vehicles, plus other Android Menustate items. The API is available on `Jitpack-io` for public use.
 > 
-> Skills: Java - Java Reflection API - Android SDK - Linear Algebra - Android Application Development - MVC Architectural design - Concurrent Programming - Gradle - jMonkeyEngine - Game Development.
->
-
-## jme-alloc
-> [GitHub](https://github.com/Electrostat-Lab/jme-alloc) - [Overview](https://www.youtube.com/watch?v=x1vHPwcLM_w)
->
-> A direct dynamic memory allocation API for jMonkeyEngine lwjgl-2 and Android games featuring a GC-linked API for memory scavenging using `PhantomReference` that keeps track of the buffer reference counts (internally) and the memory address of the buffer to be scavenged when a GC generation is dispatched.
-> 
-> Skills: Java - Java Reflection API - JNI - Java Garbage Collectors - C/C++ Programming - jMonkeyEngine - Memory Algorithms - Memory Analytics - Unit Testing - jconsole
-> 
-
-## JoystickModule API for Raspberry Pi
-> [GitHub](https://github.com/Electrostat-Lab/JoyStickModule) - [Pi4j-featured-project](https://www.pi4j.com/featured-projects/joystick-game/) - [TechDemo](https://www.youtube.com/watch?v=9ZvhFQSwHF0) - [Jitpack-io](https://jitpack.io/#Electrostat-Lab/JoystickModule)
->
-> A Java API to control a Jme Vehicle/CharacterControl/etc with an arduino JoyStick module using Pi4J-v1 implemented from native WiringPI featuring the ADC-SPI circuit, the SPI protocol, and some simple trigonometry are involved in defining the mapping for the Joystick input threshold.
-> 
-> Skills: Java - Gradle - Pi4jv1 - jMonkeyEngine - Embedded Systems Design - Raspberry Pi GPIO - Technical Writing - Digital Electronics.
-> 
-
-## ShiftAvr Framework 
-> [GitHub](https://github.com/Electrostat-Lab/ShiftAvr) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7051549167554375681/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7051549167554375681%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BLQ7QpzJQ4uLz6ngNdXFjQ%3D%3D)
->
-> A modern implementation of avr-core and GNU libraries for avr microcontroller units purely written in C expressing abstract interfaces for the communication protocols, everything is plain, right fresh out of the avr-gnu-libc documentation and the AVR datasheets.
-> 
-> Skills: C/C++ Programming - CMake Multi-project - BASH - Toolchain Front-end APIs - Microcontroller Programming - Embedded Systems - Byte-flow algorithms - Embedded Systems Design - Electronics.
 >
 
