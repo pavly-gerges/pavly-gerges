@@ -178,21 +178,23 @@ WIP
 ## Automata4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Automata4j) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7014704404347949056/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7014704404347949056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BI05adX4SQKtJ99ZQvk5DQ%3D%3D) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/automata4j)
 >
-> A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
-> 
-> Skills: Java - Java Reflection API - Gradle - Object-oriented Programming - Procedural Programming (Finite Automata) - Discrete Mathematics - jMonkeyEngine - Embedded Systems - GitHub Actions (CI/CD) - Unit Testing - Game Programming Patterns.
-
-## Electrostatic-Sandbox SDK Suite (WIP)
-> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
->
-> A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Networking Infrastructure`, `Software Infrastructure`, and `Simulation Infrastructure`. Essentially, the `Networking Infrastructure` is composed of a common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems; which entails the use of unified application development routines among the systems in communication known as _"Federates"_ and a common data exchange routine known as _"Federation Object Model (FOM)"_, while the instantiated runtime is known as _"Federation"_, and the `Simulation Infrastructure` is composed mainly of the Hardware/Software Connection Routines provided by the `Networking Infrastructure`, in addition to `Microcontroller programming` APIs and tools. The current repository introduces a preliminary vision and the tech demo from Serial4j.
-> 
+> **Description and features**: A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
 > 
 
 ## Game-HCI
 > [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo1](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [TechDemo2](https://www.youtube.com/watch?v=Jog8FdHDeOU) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
 >
-> An Android API housing useful re-usbable Human-computer Interfaces (HCI) in the form of in-game android views with an integration API for jMonkeyEngine featuring the Model-View-Controller (MVC) Architecture for designing GUI components and providing a binding API to the jMonkeyEngine Lifecycle. The API has a couple of cool ready-to-use components, including but not limited to, a `GameStickView` component and a `ControllerButtonsView` component, a `DrivingWheelView` component, a `GullWing` component for spacecrafts, a `Tachometer` and a `UTurnView` generically for vehicles, plus other Android Menustate items. The API is available on `Jitpack-io` for public use.
+> **Description**: An Android API housing useful re-usbable Human-computer Interfaces (HCI) in the form of in-game android views with an integration API for jMonkeyEngine featuring the Model-View-Controller (MVC) Architecture for designing GUI components and providing a binding API to the jMonkeyEngine Lifecycle.
+>
+> **Features**: The API has a couple of ready-to-use components, including but not limited to, a `GameStickView` component and a `ControllerButtonsView` component, a `DrivingWheelView` component, a `GullWing` component for spacecrafts, a `Tachometer` and a `UTurnView` generically for vehicles, plus other Android Menustate items. The API is available on `Jitpack-io` for public use.
 > 
 >
 
+## Electrostatic-Sandbox SDK Suite (WIP)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
+>
+> **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Networking Infrastructure`, `Software Infrastructure`, and `Simulation Infrastructure`.
+>
+> **Architecture**: Essentially, the `Networking Infrastructure` is composed of a common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems.
+> 
+> 
