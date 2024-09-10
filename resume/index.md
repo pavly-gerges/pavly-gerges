@@ -1,7 +1,7 @@
 # About Me:
 > [GitHub](https://github.com/pavly-gerges) - [YouTube](https://www.youtube.com/@pavlg3944) - [LinkedIn](https://www.linkedin.com/in/pavly-gerges-420b81228/) - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm) - [WhatsApp](https://wa.me/201011912807)
 
-Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges. I'm a self-taught OSS Engineer from the medical profession totally filled with the passion towards open-science and open-source Hardware/Software Engineering. 
+Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges. I'm a self-taught OSS Engineer from the medical profession totally delved into with passion towards open-science and open-source Hardware/Software Engineering. 
 
 # My Education:
 I graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
