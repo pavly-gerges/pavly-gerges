@@ -23,8 +23,8 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
 ### [Contributions](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period:
 - **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android user applications efficiently together with interoperability with the Android Framework, and accelerating the development time by 35-40% approximately which is the time taken to setup custom Android activities and bind it to the native Android components. It has proven comptency in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces).
   #### Features:
-  * Binding of the Android choregrapher lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
-  * Splash Screen utility using CPU timeslices.
+  * Binding of the Android choreographer lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
+  * Splash Screen utility using CPU timeslices using initial frame pacing via Android Handlers.
   * Internal utilities for Android Activity services (e.g., screen manipulation).
   * Utilities for static game states and game resources caching for activity life cycles.
   * Verbose advanced error dialog for exception handling and reporting bugs.
