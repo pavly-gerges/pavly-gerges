@@ -51,9 +51,9 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
 ----------------------------------------------------------------------------------------
 
 ## Pi4j Contributions: 
-> Technical Writing `|` (2022)
+> Technical Writing `|` A Featured Project `|` (2022)
 
-Upon the request of one of the Pi4j community leader, I've published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); in which I presented a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the RPI GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also adds insights on the generic circuits and the conceptual model behind ADCs and DACs circuits.
+Upon the request of one of the Pi4j community leader, I've published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); in which I presented a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the RPI GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also adds insights on the generic circuits and the conceptual model behind ADCs and DACs circuits. The tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
 
 ----------------------------------------------------------------------------------------
 
@@ -71,29 +71,10 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 # Projects:
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
 
-## Gradle-At-A-Glance
-> [GitHub](https://github.com/Electrostat-Lab/Gradle-At-A-Glance) - [Overview Video](https://www.youtube.com/watch?v=vUyPf0jyFxQ)
->
-> **Description**: A critique project for the current Gradle Framework on the [gradle/gradle](https://github.com/gradle/gradle) repository featuring the Gradle platform modules and infrastructure, in addition to a fair comparison to a design of a home-made similar project using [the System-Entity-Structure/Model-Base Framework (SES/MB) for Modelling and Simulation](https://link.springer.com/chapter/10.1007/978-3-031-11085-6_1#Fig6), and [the Tricotyledon Theory of System Design (T3SD)](https://link.springer.com/chapter/10.1007/BFb0025045), known as "Ccoffee". Ccoffee is a provisional conceptual design for a virtual project written purely in the C programming language even providing services for hardware compatibility (i.e., Microcontrollers). The project is subdivided into multiple modules; where each module represents a collective solution for a sub-problem in the problems domain with a strong abstractive layer featuring the Hierarchial patterns, such that, the solution range involves `filesystem` module, `connection-handler` module, and `infrastructure` module.
->
-> **Features**:
-> - _Agnostic Build_: The most headache-producing part in Native project development is the building stage which is platform-specific, and it could be eliminated by using the `POSIX` interfaces and providing a clear way to pilot-building the project by itself using a wrapper API; which compiles, builds, and caches the project binaries for a faster second run.
-> - _Robust Discrete Architecture_: According to the software ontology involved, the `filesystem` module deals with the primitive filesystems operations and is subdivided internally to a couple of API; `FileGenerator` component, `FileLocator` component, `FileEditor` component, `FileExtractor` component, and `FileUtils` component for extra manipulation, while the `connection-handler` module is devoted to provide the basis for the RESTful APIs, and is basically composed of `ConnectionEstablishmentHandler` component, `ConnectionMonitorHandler` component, `ConnectionInputStreamHandler` component, `ConnectionOutputStreamHandler` component, and `ConnectionListeners` component, and part of this might be categorized as a specialization of the `filesystem` APIs (i.e., depends-on/assembly relationship).
-> - _Port to Embedded Systems and superiority over the Gradle Binaries_: Essentially, the beneficence of using the C programming langauge and the GNU C Collection is that it provides the ability to ship the project or at least the most relevant parts of it to run on bare-metal RISC MCUs (e.g., the AVR ATMega32) which is superior to the current Gradle and other building tools like CMake, but a clear usage for this feature is not fully studied, yet.
-> 
-> **Tools**: Java SE Platform - Gradle Plugin API - Plant UML Component Diagraphs - Intellij IDEA - Sonatype Maven Central.
-> 
-
-## GDude Gradle Plugin
-WIP
-
-## GMake Gradle Plugin
-WIP
-
 ## jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 >
-> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns.
+> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time in the subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature.
 > 
 > **Features**:
 > -  Platform-specific dynamic libraries' registration.
