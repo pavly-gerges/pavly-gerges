@@ -149,18 +149,9 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Tools**: Java SE Platform - Gradle - jMonkeyEngine Framework.
 
-## Game-HCI
-> [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo1](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [TechDemo2](https://www.youtube.com/watch?v=Jog8FdHDeOU) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
->
-> **Description**: An Android API housing useful re-usbable Human-computer Interfaces (HCI) in the form of in-game android views with an integration API for jMonkeyEngine featuring the Model-View-Controller (MVC) Architecture for designing GUI components and providing a binding API to the jMonkeyEngine Lifecycle.
->
-> **Features**: The API has a couple of ready-to-use components, including but not limited to, a `GameStickView` component and a `ControllerButtonsView` component, a `DrivingWheelView` component, a `GullWing` component for spacecrafts, a `Tachometer` and a `UTurnView` generically for vehicles, plus other Android Menustate items. The API is available on `Jitpack-io` for public use.
-> 
->
-
 # My Education:
-I graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
+Graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with a Bachelor degree of Medicine and Surgery (M.B.B.Ch.) and GPA-3.15.
 
 # Overview of my Computer Engineering education:
 Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. I'm seeking more knowledge and wisdom in the field of distributed simulation systems that combine all my studies in one place. All my studies run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials.
-> 
+
