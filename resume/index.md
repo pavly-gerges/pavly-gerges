@@ -1,24 +1,18 @@
 # About Me:
 > [GitHub](https://github.com/pavly-gerges) - [YouTube](https://www.youtube.com/@pavlg3944) - [LinkedIn](https://www.linkedin.com/in/pavly-gerges-420b81228/) - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm) - [WhatsApp](https://wa.me/201011912807)
 
-Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges. I'm a self-taught OSS Engineer from the medical profession totally delved into with passion towards open-science and open-source Hardware/Software Engineering. 
-
-# My Education:
-I graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
-
-# Overview of my Computer Engineering education:
-Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. I'm seeking more knowledge and wisdom in the field of distributed simulation systems that combine all my studies in one place. All my studies run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials.
+Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, a self-taught OSS Engineer from the medical profession totally delved into with passion towards open-science and open-source Hardware/Software Engineering. 
 
 # Skills:
-- **Languages**: Java - Kotlin - C/C++ - Groovy - Bash (Shell Scripting).
+- **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
 - **Java Platform**: Java Reflection API - Java Native Interface (JNI) - JNI Invocation API - Java Command-line tools.
 - **Gradle**: Gradle - Gradle Plugins - Gradle Core Platform Modular Architecture - Gradle Multi-project Builds.
-- **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - GLSL - OpenGL - PlantUML - Sonatype/Maven Deployment.
+- **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - GLSL - OpenGL - Sonatype/Maven Deployment.
 - **Technical Writing**: Documentation - Tutorials.
-- **Building and Automation**: CMake - BASH - JUnit - Group Testing (jme3-testable pilot API) - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL).
+- **Building and Automation**: CMake - BASH - JUnit - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL).
 - **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
-- **Pure Sciences**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Applied Theory - Medical and Clinical Sciences - System Design.
-- **Debugging and Profiling**: Java Utility Loggers (JUL) - jconsole - Android Profiler - Java Flight Recorder (JFR) - GNU Debugger (GDB).
+- **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
+- **Debugging and Profiling**: Java Utility Loggers (JUL) - jconsole - GNU Debugger (GDB).
 
 # Experience:
 > Essentially, all my contributions are entitled to open-source projects through different routes, either through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) or through self-initiated projects on [Electrostat-Lab](https://github.com/Electrostat-Lab) organization, see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
@@ -26,17 +20,10 @@ Though I'm a medical candidate, I've got enough wisdom over these years to find 
 ## jMonkeyEngine Contributions: 
 > Contributor `|` (2020 - Present)
 
-I've been contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for about 4 years**, and still contributing.
+Contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for 4 years**.
 
-### What does the current jMonkeyEngine team do?
-The current team activities are essentially:
-- Maintaining the current codebase for cross-platform game applications development.
-- Community Management.
-- Features support and Engine Releases.
-- Plugins, API design, and building sub-projects.
-
-### What were [my activities](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period?
-- **JmeSurfaceView**: During my first year, I proposed and introduced [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview), a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs, and it's proven comptency over time in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces). 
+### [Contributions](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period:
+- **JmeSurfaceView**: Proposed and introduced [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview), a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs, and it's proven comptency over time in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces). 
 
 - **ContrastAdjustmentFilter**: I worked on another shiny feature, a [ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665); that is essentially a postprocessor filter GLSL API that controls the 3D-color-gamut contrast using a power law, and was introduced in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
 
@@ -65,13 +52,6 @@ Electrostat-Lab projects tend to solve problems arising within different domains
 
 ### The vision of this organization:
 The current vision of the Electrostat-Lab organization is to provide [a fully-fledged POSIX-based Open-Source Distributed Simulation Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox); and it does this perfectly by dividing the framework into several smaller frameworks and APIs of re-usable code.
-
-----------------------------------------------------------------------------------------
-
-## Gradle first exposure: 
-> Discussions on GitHub `|` (2023)
-
-My first exposure to the Gradle team was providing an explanation to [an issue with the JavaDoc tooling](https://github.com/gradle/gradle/issues/18274) and [this PR](https://github.com/gradle/gradle/pull/18417), particularly using the `--release ${V}` option with the JavaDoc tool. However, I haven't got the time enough to communicate with the team and provide a fix, in addition, the team had replied back that it might take a long delay time to proceed.
 
 # Projects:
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
@@ -197,4 +177,10 @@ WIP
 >
 > **Architecture**: Essentially, the `Networking Infrastructure` is composed of a common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems.
 > 
+
+# My Education:
+I graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
+
+# Overview of my Computer Engineering education:
+Though I'm a medical candidate, I've got enough wisdom over these years to find the common scientific bases among Software Engineering and Medicine, which are very huge to list them here in this section. Comprehensively, through this genuine way, I've been able to focus on and study both fields. Regarding computer engineering, I'm currently studying Embedded Systems, and Game Engines Development among other pure sciences including, but not limited to, Calculus, Linear Algebra and Discrete Mathematics. I'm seeking more knowledge and wisdom in the field of distributed simulation systems that combine all my studies in one place. All my studies run from books, documentation manuals, technical reports, and journals, and rarely workshop webinar tutorials.
 > 
