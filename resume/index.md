@@ -1,18 +1,16 @@
 # About Me:
 > [GitHub](https://github.com/pavly-gerges) - [YouTube](https://www.youtube.com/@pavlg3944) - [LinkedIn](https://www.linkedin.com/in/pavly-gerges-420b81228/) - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm) - [WhatsApp](https://wa.me/201011912807)
 
-Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, a self-taught OSS Engineer from the medical profession totally delved into with passion towards open-science and open-source Hardware/Software Engineering. 
+ A self-taught OSS Engineer from the medical profession with a strong professional background in open-science and open-source Hardware/Software Engineering.
 
 # Skills:
 - **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
 - **Java Platform**: Java Reflection API - Java Native Interface (JNI) - JNI Invocation API - Java Command-line tools.
-- **Gradle**: Gradle - Gradle Plugins - Gradle Core Platform Modular Architecture - Gradle Multi-project Builds.
 - **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Game Programming Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - GLSL - OpenGL - Sonatype/Maven Deployment.
-- **Technical Writing**: Documentation - Wikis.
-- **Building and Automation**: CMake - BASH - JUnit - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL).
+- **Technical Writing**: Documentation - Wikis - GraphViz - Latex.
+- **Building, Automation and Testing**: CMake - BASH - JUnit - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL) - Gradle - Gradle Plugins - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB) - Valgrind.
 - **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
 - **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
-- **Debugging and Profiling**: Java Utility Loggers (JUL) - jconsole - GNU Debugger (GDB).
 
 # Experience:
 > Essentially, all my contributions are entitled to open-source projects through different routes, either through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) or through self-initiated projects on [Electrostat-Lab](https://github.com/Electrostat-Lab) organization, see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
@@ -23,7 +21,7 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, a self
 Contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for 4 years**.
 
 ### [Contributions](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period:
-- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Making it easier to introduce jMonkeyEngine renderers in Android user applications efficiently together with interoperability with the Android Framework. It has proven comptency in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces).
+- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android user applications efficiently together with interoperability with the Android Framework, and accelerating the development time by 35-40% approximately which is the time taken to setup custom Android activities and bind it to the native Android components. It has proven comptency in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces).
   #### Features:
   * Binding of the Android choregrapher lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
   * Splash Screen utility using CPU timeslices.
@@ -44,11 +42,11 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
   * Potential memory leaks at the File descriptor wrapper utilized by the vorbis decoder library.
   * Added Java documentation describing the correct pattern for the vorbis decoder.
 
-- **Writing JavaDoc for an Old Animation System (MonkeyAnim)**: I've taken the initiative in writing JavaDocs for a 7-year-old undocumented and vague animation system (MonkeyAnim), and succeeded with the team guidance to [deliver some of it](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges) on the currently working release [jMonkeyEngine v3.7.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.7.0-alpha1).
+- **Writing JavaDoc for an Old Animation System (MonkeyAnim)**: I've taken the initiative in writing JavaDocs for a 7-year-old undocumented and vague animation system (MonkeyAnim), and succeeded with the team guidance to [deliver some of it](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges) on the currently working release [jMonkeyEngine v3.7.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.7.0-alpha1). The undocumented animation system was limiting our understanding of some parts implemented on the internals of the system which was hindering the development lifecycle of some games that rely heavily on the animation system.
 
 - **Issues support and Community Management participations**: Issues related to the Android [jme3-android](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-android?author=pavly-gerges), and the core modules [jme3-core](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-core?author=pavly-gerges).
 
-- **Beginnings of the Serial4j framework**: Designed [Serial4j](https://github.com/Electrostat-Lab/Serial4j) back in 2021, a Java Terminal I/O framework for serial interfaces (e.g., Serial USB and RS232) based on the Data-Flow and the Data-centered architectural designs, in which I've blended a lot of my skills, including but not limited to, developing APIs using C/C++, building dynamic native libraries, using Gradle and CMake to build JNI applications, testing memory leaks, designing and implementing modal logic algorithms and byte-flow patterns, hardware/software co-design, plus introducing [a vision for distributed simulation systems](https://www.youtube.com/watch?v=4GFGsH4eyJs&t=235s).
+- **Beginnings of the Serial4j framework**: Designed [Serial4j](https://github.com/Electrostat-Lab/Serial4j) back in 2021, a Java Terminal I/O framework for serial interfaces (e.g., Serial USB and RS232) based on the Data-Flow and the Data-centered architectural designs blending a lot of the previously learned skills, including, developing APIs using C/C++, building dynamic native libraries, using Gradle and CMake to build JNI applications, testing memory leaks, designing and implementing modal logic algorithms and byte-flow patterns, hardware/software co-design, plus introducing [a vision for distributed simulation systems](https://www.youtube.com/watch?v=4GFGsH4eyJs&t=235s). Serial4j solves the issue of effectively using serial devices on GNU/Linux machines for Java applications without the added complexities of the concurrency and multi-threading layers, and furthermore introducing the serial Human-Interface-Devices pattern to build comptent hardware for Embedded Game Development.
 
 ----------------------------------------------------------------------------------------
 
