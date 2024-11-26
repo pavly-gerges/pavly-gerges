@@ -76,14 +76,9 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time in the subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature.
 > 
-> **Features**:
-> -  Platform-specific dynamic libraries' registration.
+> **Key Features**:
 > -  Platform-specific dynamic libraries building using platform-specific predicates.
-> -  Locate and load external dynamic libraries directly.
 > -  File Locator and extractor routines (classpath - external jar).
-> -  Extract native libraries from the stock jar library (classpath).
-> -  Locate external jars and extract native libraries from them.
-> -  Define an extract directory path.
 > -  Retry Criterion with clean extraction.
 > -  EventDispatchers: Extraction Listeners, Loading Listeners, and System Detection Listeners.
 > -  Filesystem Failure Throwable Exceptions: binds the user API to the jSnapLoader lifecycle.
@@ -91,7 +86,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > -  Memory logging of the stream providers' handlers using the object hash keys.
 > -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
 >  
-> **Robust Discrete Architecture**: The architecture basically divides the library into subsets of APIs; each of them solves a subset problem of the major problem. The library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`, and thus new _PlatformPredicates_ could be built on the user application side and not primarily hard-coded into the main API leading to a robust design with simple ideas picked from Discrete Mathematics and Modal Logic. Additionally, the framework offers a stock onloading anti-failure mechanism, and a stepwise command-state pattern to handle failures from the user application side enabling the implementation of several anti-failure routines from the user side. Furthermore, memory logging and tight handling of stream resources are attained on both the normal program flow and the exceptional cases (i.e., failure cases). The framework is open-ended for user-based specializations and wrappers APIs.
+> **Robust Discrete Architecture**: The architecture basically divides the library into subsets of APIs; each of them solves a subset problem of the major problem. The library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`, and thus new _PlatformPredicates_ could be built on the user application side and not primarily hard-coded into the main API leading to a robust design with simple ideas picked from Discrete Mathematics and Modal Logic. Additionally, the framework offers a stock on-loading anti-failure mechanism, and a stepwise command-state pattern to handle failures from the user application side enabling the implementation of several anti-failure routines from the user side. Furthermore, memory logging and tight handling of stream resources are attained on both the normal program flow and the exceptional cases (i.e., failure cases).
 >
 > **Used by**:
 > The framework is currently deployed to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
@@ -104,7 +99,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Architecture**: The base architecture of Serial4j is based on the Data-Flow Systems, particularly Pipe-and-Filter Architectural design, so from a low-level perspective, the Filesystems and byte streams, which is very analogus conceptually to serialization and deserialization, but on wire. The pipe is the plain filesystem and byte streams, while the filters are composed of main stream filters imposed by the operating system; that is the Terminal, that controls the byte streams providing buffered, unbuffered, and line feed/return carriage buffered stream routines. Other filters are mutually exclusive parts of the architecture known as _Human-Interface-Device_ APIs and _SerialMonitor APIs_; those provide new routines to manipulate byte streams as _Data Frames_; so essentially introducing a new type of buffered streams through accumulating data via modal logic (or boolean algebra aka. bitwise operations). The framework was designed essentially to provide innovators with custom controllers to bind to jMonkeyEngine Game Lifecycle for Kiosk-based systems.
 >
-> **Features**:
+> **Key Features**:
 > - Hierarchial modular architecture in structure separating the native libraries from the Java APIs.
 > - Cross-platform capabilities on POSIX interfaces.
 > - Low-level File I/O APIs with `java.io` APIs specializations integratable with other applications.
@@ -115,29 +110,17 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - [ShiftAvr](https://github.com/Electrostat-Lab/ShiftAvr/) - WSL - Maven central.
 > 
 
-## GMonitor Gradle Plugin
-> [GitHub]() - [TechDemo]() - [Maven-central]()
+## Electrostatic-Sandbox SDK Suite (WIP)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
 >
-> **Description**: Creates a portable _Serial Monitor_ plugin to be used beside embedded systems applications on embedded linux machines and the raspberry pi through integrating the Serial4j framework into the Gradle Framework via a Gradle Plugin that distributes the jobs of the Serial4j _Serial Monitor_ into Gradle tasks.
+> **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Hardware IO Infrastructure (Project: ElectroIO)`, `Software and Networking Infrastructure (Project: ElectroNetSoft)`, and `Simulation Infrastructure (Project: ElectroSim)`.
 >
-> **Features**:
-> - Starts a continous serial monitor session on a port of user selection.
-> - Supports jMonkeyEngine application integration controls out-of-the-box.
-> - Dynamically changeable baud rate, file modes, and terminal modes.
-> - Anti-failure detection and anti-failure routines through the legacy exception handling.
-> - Layered architecture separating the concurrency and thread-dependent APIs from the terminal, low-level I/O, serial monitor, and HID APIs.
-> - Deployed for x86, x86-64, arm32, and arm64 systems as distributed dependencies on maven-central.
+> **Vision**: Build a complete layered framework for [distributed simulation systems](https://en.wikipedia.org/wiki/Distributed_Interactive_Simulation) on the top of the GNU/Linux systems to facilitate building distributed systems for the scientific simulation of multiple disciplines including smart homes, smart hospitals, medical, aerospace, and military missions simulations.
 >
-> **Tools**: Java SE Platform - Gradle Plugins API - [Serial4j Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j) - Maven Central - Intellij IDEA
-
-## Jector Framework
-> [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
+> **Current Progress**:
 >
-> **Description**: An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications.
->
-> **Features**: Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
->
-> **Tools**: Java SE Platform - Gradle - jMonkeyEngine Framework.
+> **Architecture**: Essentially, the `Software and Networking Infrastructure` are composed of common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems.
+> 
 
 ## Articular-ES Framework
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
@@ -146,7 +129,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Architecture**: The API provides a strong abstraction based on the data-centered architecture with the ability to model complex systems, such as: Human Interface Devices (HID) APIs, and language processing and translational APIs. The framework is composed structurally of `Systems`, `Entities`, `Modules`, and `Components`, while behaviorly of `SystemControllers` and `DataPipes`.
 >
-> **Features**:
+> **Key Features**:
 > 
 > **Tools**: Java SE Platform - Gradle - Entity-Component-System Architecture - jMonkeyEngine Framework - GitHub Actions (CI/CD).
 > 
@@ -157,6 +140,15 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Description and features**: A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
 > 
 
+## Jector Framework
+> [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
+>
+> **Description**: An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications.
+>
+> **Features**: Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
+>
+> **Tools**: Java SE Platform - Gradle - jMonkeyEngine Framework.
+
 ## Game-HCI
 > [GitHub](https://github.com/Electrostat-Lab/Game-HCI) - [TechDemo1](https://www.youtube.com/watch?v=Gp2JJ-PCI8c) - [TechDemo2](https://www.youtube.com/watch?v=Jog8FdHDeOU) - [Jitpack-io](https://jitpack.io/#Electrostat-lab/Game-HCI)
 >
@@ -165,14 +157,6 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Features**: The API has a couple of ready-to-use components, including but not limited to, a `GameStickView` component and a `ControllerButtonsView` component, a `DrivingWheelView` component, a `GullWing` component for spacecrafts, a `Tachometer` and a `UTurnView` generically for vehicles, plus other Android Menustate items. The API is available on `Jitpack-io` for public use.
 > 
 >
-
-## Electrostatic-Sandbox SDK Suite (WIP)
-> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
->
-> **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Networking Infrastructure`, `Software Infrastructure`, and `Simulation Infrastructure`.
->
-> **Architecture**: Essentially, the `Networking Infrastructure` is composed of a common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems.
-> 
 
 # My Education:
 I graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with GPA-3.15, and currently taking my medical internship. I am currently holding a Bachelor degree of Medicine and Surgery (M.B.B.Ch.), however, not entitled yet to practice medicine. 
