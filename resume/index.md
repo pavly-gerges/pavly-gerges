@@ -7,8 +7,8 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, a self
 - **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
 - **Java Platform**: Java Reflection API - Java Native Interface (JNI) - JNI Invocation API - Java Command-line tools.
 - **Gradle**: Gradle - Gradle Plugins - Gradle Core Platform Modular Architecture - Gradle Multi-project Builds.
-- **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - GLSL - OpenGL - Sonatype/Maven Deployment.
-- **Technical Writing**: Documentation - Tutorials.
+- **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Game Programming Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android Core SDK - Android NDK - GLSL - OpenGL - Sonatype/Maven Deployment.
+- **Technical Writing**: Documentation - Wikis.
 - **Building and Automation**: CMake - BASH - JUnit - Git/GitHub VCS - GitHub Actions (CI/CD) - Windows-Subsystem For Linux (WSL).
 - **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
 - **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
@@ -23,15 +23,32 @@ Welcome, it's an honor for me that you've reached here! I'm Pavly Gerges, a self
 Contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for 4 years**.
 
 ### [Contributions](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period:
-- **JmeSurfaceView**: Proposed and introduced [JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview), a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs, and it's proven comptency over time in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces). 
+- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Making it easier to introduce jMonkeyEngine renderers in Android user applications efficiently together with interoperability with the Android Framework. It has proven comptency in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces).
+  #### Features:
+  * Binding of the Android choregrapher lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
+  * Splash Screen utility using CPU timeslices.
+  * Internal utilities for Android Activity services (e.g., screen manipulation).
+  * Utilities for static game states and game resources caching for activity life cycles.
+  * Verbose advanced error dialog for exception handling and reporting bugs.
+  * Prompt memory handlers bound to the activity life cycle and the static game states utilities.
 
-- **ContrastAdjustmentFilter**: I worked on another shiny feature, a [ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665); that is essentially a postprocessor filter GLSL API that controls the 3D-color-gamut contrast using a power law, and was introduced in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
+- **[ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665)**: A postprocessor filter GLSL API that controls the 3D-color-gamut contrast of a frame buffer based on a bounded power law applied on the RGBA color vectors, making it easier to adjust scene colors contrast out-of-the-box (e.g., in day-night transition scenes). It was introduced in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
+  #### Features:
+  * 3D-color-gamut normalization to an input range.
+  * Sanity guards against negative floating points.
+  * Scalable inverse power law on the 3D-color gamut.
+
+- **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Resolved issues related to file resources release and ownership in the Android vorbis audio decoder library. The issue was preventing Android users from playing OGG files on Android systems due to the [Android file descriptor sanitizer](https://android.googlesource.com/platform/bionic/+/master/docs/fdsan.md) which protects the Unix file systems against anti-patterns.
+  #### Issues resolved:
+  * An anti-pattern introducing a double file closure.
+  * Potential memory leaks at the File descriptor wrapper utilized by the vorbis decoder library.
+  * Added Java documentation describing the correct pattern for the vorbis decoder.
 
 - **Writing JavaDoc for an Old Animation System (MonkeyAnim)**: I've taken the initiative in writing JavaDocs for a 7-year-old undocumented and vague animation system (MonkeyAnim), and succeeded with the team guidance to [deliver some of it](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges) on the currently working release [jMonkeyEngine v3.7.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.7.0-alpha1).
 
-- **Issues support and Community Management participations**: Other things that I had worked on in jMonkeyEngine are issues related to the Android [jme3-android](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-android?author=pavly-gerges) and the core modules [jme3-core](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-core?author=pavly-gerges).
+- **Issues support and Community Management participations**: Issues related to the Android [jme3-android](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-android?author=pavly-gerges), and the core modules [jme3-core](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-core?author=pavly-gerges).
 
-- **Beginnings of the Serial4j framework**: I designed [Serial4j](https://github.com/Electrostat-Lab/Serial4j) back in 2021, a Java Terminal I/O framework for serial interfaces (e.g., Serial USB and RS232) based on the Data-Flow and the Data-centered architectural designs, in which I've blended a lot of my skills, including but not limited to, developing APIs using C/C++, building dynamic native libraries, using Gradle and CMake to build JNI applications, testing memory leaks, designing and implementing modal logic algorithms and byte-flow patterns, hardware/software co-design, plus introducing [a vision for distributed simulation systems](https://www.youtube.com/watch?v=4GFGsH4eyJs&t=235s).
+- **Beginnings of the Serial4j framework**: Designed [Serial4j](https://github.com/Electrostat-Lab/Serial4j) back in 2021, a Java Terminal I/O framework for serial interfaces (e.g., Serial USB and RS232) based on the Data-Flow and the Data-centered architectural designs, in which I've blended a lot of my skills, including but not limited to, developing APIs using C/C++, building dynamic native libraries, using Gradle and CMake to build JNI applications, testing memory leaks, designing and implementing modal logic algorithms and byte-flow patterns, hardware/software co-design, plus introducing [a vision for distributed simulation systems](https://www.youtube.com/watch?v=4GFGsH4eyJs&t=235s).
 
 ----------------------------------------------------------------------------------------
 
