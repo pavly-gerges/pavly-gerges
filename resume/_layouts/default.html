@@ -5,94 +5,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pavly Gerges - Resume</title>
     <style>
+        /* General Styles */
         body {
             font-family: 'Roboto', Arial, sans-serif;
             background-color: #f4f4f9;
             margin: 0;
             padding: 0;
-            color: #333;
+            color: #1a1a2e;
             line-height: 1.6;
         }
-        header {
-            background-color: #0030ee;
-            color: white;
-            padding: 20px 10px;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5rem;
-        }
-        header p {
-            margin: 5px 0;
-            font-size: 1rem;
-        }
-        header a {
+        a {
             color: #ffd700;
             text-decoration: none;
         }
-        header a:hover {
+        a:hover {
             text-decoration: underline;
+        }
+        h1, h2, h3 {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .header-container {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 900px;
+            margin: auto;
         }
         .avatar {
             width: 150px;
             height: 150px;
             border-radius: 50%;
-            margin: 10px auto;
-            display: block;
-            border: 3px solid white;
+            border: 3px solid #ffd700;
+            margin-right: 20px;
         }
+        .header-info {
+            text-align: left;
+        }
+        .header-info h1 {
+            font-size: 2.5rem;
+        }
+        .header-info p {
+            margin: 5px 0;
+            font-size: 1rem;
+        }
+
+        /* Main Content */
         .container {
             max-width: 900px;
             margin: 20px auto;
             padding: 20px;
             background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
         }
-        h2 {
-            color: #0030ee;
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
             font-size: 1.8rem;
             margin-bottom: 10px;
+            border-bottom: 2px solid #ffd700;
+            display: inline-block;
         }
-        h3 {
-            color: #0030ee;
-            font-size: 1.4rem;
+        .section p, .section li {
+            font-size: 1rem;
             margin-bottom: 10px;
         }
-        p, li {
-            font-size: 1rem;
+        ul {
+            padding-left: 20px;
         }
+
+        /* Footer */
         footer {
-            background-color: #0030ee;
+            background: #1a1a2e;
             color: white;
-            padding: 10px 0;
+            padding: 20px 10px;
             text-align: center;
+        }
+        footer p {
+            margin: 5px 0;
         }
         footer a {
             color: #ffd700;
-            text-decoration: none;
-            margin: 0 10px;
         }
-        footer a:hover {
-            text-decoration: underline;
-        }
-        table {
-            width: 100%;
-            border-spacing: 10px;
-        }
-        td {
-            vertical-align: middle;
-        }
-        @media (max-width: 600px) {
-            header h1 {
-                font-size: 2rem;
-            }
-            header p, footer p {
-                font-size: 0.9rem;
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header-container {
+                flex-direction: column;
+                text-align: center;
             }
             .avatar {
-                width: 120px;
-                height: 120px;
+                margin: 0 auto 20px;
+            }
+            .header-info {
+                text-align: center;
             }
         }
     </style>
@@ -100,19 +117,24 @@
 <body>
 
     <header>
-        <img src="https://avatars.githubusercontent.com/u/60224159?v=4" alt="Pavly Gerges" class="avatar">
-        <h1>Pavly Gerges</h1>
-        <p>Email: <a href="mailto:pepogerges33@gmail.com">pepogerges33@gmail.com</a></p>
-        <p>Phone: +2 01011912807</p>
-        <p>Electrostat-Lab: <a href="https://github.com/Electrostat-Lab" target="_blank">GitHub Organization</a></p>
+        <div class="header-container">
+            <img src="https://avatars.githubusercontent.com/u/60224159?v=4" alt="Pavly Gerges" class="avatar">
+            <div class="header-info">
+                <h1>Pavly Gerges</h1>
+                <p>Email: <a href="mailto:pepogerges33@gmail.com">pepogerges33@gmail.com</a></p>
+                <p>Phone: +2 01011912807</p>
+                <p>Electrostat-Lab: <a href="https://github.com/Electrostat-Lab" target="_blank">GitHub Organization</a></p>
+            </div>
+        </div>
     </header>
 
     <div class="container">
-        {{content}}
+        {{ content }}
     </div>
 
     <footer>
-        <p>&copy; 2024 Pavly Gerges. All rights reserved. | <a href="#">Privacy Policy</a></p>
+        <p>&copy; 2024 Pavly Gerges. All rights reserved.</p>
+        <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
     </footer>
 
 </body>
