@@ -62,9 +62,6 @@ Upon the request of one of the Pi4j community leader, I've published a hybrid pr
 
 During the last 2 years, I've started my own open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization. 
 
-### Development at Electrostat-Lab:
-Electrostat-Lab projects tend to solve problems arising within different domains, mainly jMonkeyEngine community, and my unfinished game [JPluto Arcade Game](https://www.youtube.com/watch?v=HcerZ-8IWSo); which should utilize a wide aspect of Hardware/Software Co-design, so typically the rendering and physics pipelines are managed using jMonkeyEngine interfaces, while the controller interfaces are built using custom peripherals and interfaced over serial and networks. 
-
 ### The vision of this organization:
 The current vision of the Electrostat-Lab organization is to provide [a fully-fledged POSIX-based Open-Source Distributed Simulation Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox); and it does this perfectly by dividing the framework into several smaller frameworks and APIs of re-usable code.
 
@@ -74,7 +71,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 ## jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 >
-> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in the subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
+> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
 > 
 > **Key Features**:
 > -  Platform-specific dynamic libraries building using platform-specific predicates.
@@ -115,9 +112,10 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Vision**: Build a complete layered framework for [distributed simulation systems](https://en.wikipedia.org/wiki/Distributed_Interactive_Simulation) on the top of the GNU/Linux systems to facilitate building distributed systems for the scientific simulation of multiple disciplines including smart homes, smart hospitals, medical, aerospace, and military missions simulations.
 >
-> **Current Progress**:
->
-> **Architecture**: Essentially, the `Software and Networking Infrastructure` are composed of common communication protocol API abstracting off the different serial and parallel communication cores (e.g., TCP/IP, Serial Interfaces RS232 Standard and USB Standard, Parallel Standard IEEE-1284 or Centronics, Ethernet Standard IEEE-802.3), the `Software Infrastructure` is composed mainly of the firewall APIs, the database APIs, and the rest of operating system resources handler APIs (e.g., MemoryManagers and WindowManagers) in addition to the `Runtime Infrastructure (RTI)` and the `RTI Interfaces` defined by the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) for Distributed Simulation Systems.
+> **Architecture**: Essentially, the Electrostatic-Sandbox SDK is a software development suite for designing and building distributed simulation systems, and it's decomposed into 3 subprojects: 
+1) _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores.
+2) _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
+3) _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
 > 
 
 ## Articular-ES Framework
