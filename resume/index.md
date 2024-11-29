@@ -117,6 +117,8 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > 2) _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
 > 3) _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
 > 
+> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMOnkeyEngine.
+> 
 
 ## Articular-ES Framework
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
@@ -128,7 +130,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Key Features**:
 > * Entity-Component-System Data-centered standard architecture.
 > * System Modules providing further software modularity.
-> * Data pipe components facilitating relations between components.
+> * Data pipe components facilitating modelling relations between components.
 > * Built on top of abstract Memory Maps providing behavior-agnostic architecture.
 > 
 > **Tools**: Java SE Platform - Gradle - Entity-Component-System Architecture - jMonkeyEngine Framework - GitHub Actions (CI/CD).
