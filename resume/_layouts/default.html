@@ -3,66 +3,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pavly-Gerges-Resume</title>
+    <title>Pavly Gerges - Resume</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: white;
+            font-family: 'Roboto', Arial, sans-serif;
+            background-color: #f4f4f9;
             margin: 0;
             padding: 0;
             color: #333;
+            line-height: 1.6;
         }
         header {
-            background-color: gray;
-            padding: 20px;
+            background-color: #0030ee;
+            color: white;
+            padding: 20px 10px;
             text-align: center;
         }
         header h1 {
             margin: 0;
-            font-size: 35px;
-            color: black;
+            font-size: 2.5rem;
         }
         header p {
             margin: 5px 0;
-            font-size: 15px;
-            color: black;
+            font-size: 1rem;
         }
-	header a {
-	    color: black;
-	}
+        header a {
+            color: #ffd700;
+            text-decoration: none;
+        }
+        header a:hover {
+            text-decoration: underline;
+        }
         .avatar {
-            width: 200px;
-            height: 200px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
-            top: 10px;
-            left: calc(50% - 50px);
+            margin: 10px auto;
+            display: block;
+            border: 3px solid white;
         }
         .container {
+            max-width: 900px;
+            margin: 20px auto;
             padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h1 {
-	    color: #0030EE;
-	}
         h2 {
-            color: #1e90ff;
-            font-size: 30px;
+            color: #0030ee;
+            font-size: 1.8rem;
+            margin-bottom: 10px;
         }
         h3 {
-            color: #1e90ff;
-            font-size: 20px;
+            color: #0030ee;
+            font-size: 1.4rem;
+            margin-bottom: 10px;
         }
-        p {
-            color: black;
-            font-size: 20px;
-            line-height: 1.6;
+        p, li {
+            font-size: 1rem;
         }
         footer {
-            background-color: lightblue;
-            padding: 10px;
+            background-color: #0030ee;
+            color: white;
+            padding: 10px 0;
             text-align: center;
         }
         footer a {
-            color: #1e90ff;
+            color: #ffd700;
             text-decoration: none;
             margin: 0 10px;
         }
@@ -70,47 +77,43 @@
             text-decoration: underline;
         }
         table {
-            width: 80%;
-            border-collapse: collapse;
-            margin: 5px 0;
+            width: 100%;
+            border-spacing: 10px;
         }
         td {
-            padding: 0px;
+            vertical-align: middle;
         }
-        table, th, td {
-            border: none;
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            header p, footer p {
+                font-size: 0.9rem;
+            }
+            .avatar {
+                width: 120px;
+                height: 120px;
+            }
         }
-	blockquote p {
-	    color: black;
-            font-size: 20px;
-            line-height: 1.6;
-	}
-	ul, ol, li {
-            color: black;
-            font-size: 20px;
-            line-height: 1.6;
-	}
     </style>
 </head>
 <body>
 
     <header>
-	<table>
-        <tr>
-            <td><img src="https://avatars.githubusercontent.com/u/60224159?v=4" alt="My Photo" class="avatar"></td>
-            <td>
-		        <h1>Pavly Gerges</h1>
-		        <p>Email: <a href="https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm" target="_blank">pepogerges33</a></p>
-		        <p>Phone: +2 01011912807</p>
-		        <p>Electrostat-Lab: <a href="https://github.com/Electrostat-Lab" target="_blank">Electrostat-Lab Organization</a></p>
-	    </td>
-        </tr>
-	</table>
+        <img src="https://avatars.githubusercontent.com/u/60224159?v=4" alt="Pavly Gerges" class="avatar">
+        <h1>Pavly Gerges</h1>
+        <p>Email: <a href="mailto:pepogerges33@gmail.com">pepogerges33@gmail.com</a></p>
+        <p>Phone: +2 01011912807</p>
+        <p>Electrostat-Lab: <a href="https://github.com/Electrostat-Lab" target="_blank">GitHub Organization</a></p>
     </header>
 
     <div class="container">
-          {{content}}
+        {{content}}
     </div>
+
+    <footer>
+        <p>&copy; 2024 Pavly Gerges. All rights reserved. | <a href="#">Privacy Policy</a></p>
+    </footer>
 
 </body>
 </html>
