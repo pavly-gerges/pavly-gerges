@@ -46,14 +46,12 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
 
 - **Issues support and Community Management participations**: Issues related to the Android [jme3-android](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-android?author=pavly-gerges), and the core modules [jme3-core](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-core?author=pavly-gerges).
 
-- **Beginnings of the Serial4j framework**: Designed [Serial4j](https://github.com/Electrostat-Lab/Serial4j) back in 2021, a Java Terminal I/O framework for serial interfaces (e.g., Serial USB and RS232) based on the Data-Flow and the Data-centered architectural designs blending a lot of the previously learned skills, including, developing APIs using C/C++, building dynamic native libraries, using Gradle and CMake to build JNI applications, testing memory leaks, designing and implementing modal logic algorithms and byte-flow patterns, hardware/software co-design, plus introducing [a vision for distributed simulation systems](https://www.youtube.com/watch?v=4GFGsH4eyJs&t=235s). Serial4j solves the issue of effectively using serial devices on GNU/Linux machines for Java applications without the added complexities of the concurrency and multi-threading layers, and furthermore introducing the serial Human-Interface-Devices pattern to build comptent hardware for Embedded Game Development.
-
 ----------------------------------------------------------------------------------------
 
 ## Pi4j Contributions: 
 > Technical Writing `|` A Featured Project `|` (2022)
 
-Upon the request of one of the Pi4j community leader, I've published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); in which I presented a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the RPI GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also adds insights on the generic circuits and the conceptual model behind ADCs and DACs circuits. The tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
+Upon the request of one of the Pi4j community leader, I published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introducces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
 
 ----------------------------------------------------------------------------------------
 
