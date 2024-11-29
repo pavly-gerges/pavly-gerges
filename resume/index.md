@@ -102,7 +102,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > - Serial Human-Interface-Device (HID) API providing specializations for serial-based devices signifying the `read()` and `write()` operations and providing preprocessing and postprocessing filtering techniques for encoding, decoding, and encryption/decryption algorithms.
 > - jMonkeyEngine integration examples with realtime data monitoring.
 >
-> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - [ShiftAvr](https://github.com/Electrostat-Lab/ShiftAvr/) - WSL - Maven central.
+> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - Maven central.
 > 
 
 ## Electrostatic-Sandbox SDK Suite (WIP)
@@ -113,11 +113,11 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Vision**: Build a complete layered framework for [distributed simulation systems](https://en.wikipedia.org/wiki/Distributed_Interactive_Simulation) on the top of the GNU/Linux systems to facilitate building distributed systems for the scientific simulation of multiple disciplines including smart homes, smart hospitals, medical, aerospace, and military missions simulations.
 >
 > **Architecture**: Essentially, the Electrostatic-Sandbox SDK is a software development suite for designing and building distributed simulation systems, and it's decomposed into 3 subprojects: 
-> 1) _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores.
-> 2) _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
-> 3) _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
+> * _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores.
+> * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
+> * _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
 > 
-> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMOnkeyEngine.
+> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine.
 > 
 
 ## Articular-ES Framework
