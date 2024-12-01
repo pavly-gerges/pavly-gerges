@@ -8,7 +8,7 @@
 - **Java Platform**: Java Reflection API - Java Native Interface (JNI) - JNI Invocation API - Java Command-line tools.
 - **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Game Programming Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android SDK - GLSL - OpenGL - Sonatype/Maven Deployment.
 - **Technical Writing**: Documentation - Wikis - GraphViz - Latex.
-- **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB) - Valgrind.
+- **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB).
 - **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
 - **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
 
@@ -21,7 +21,7 @@
 Contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for 4 years**.
 
 ### [Contributions](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period:
-- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android user applications efficiently together with interoperability with the Android Framework, and accelerating the development time by 35-40% approximately which is the time taken to setup custom Android activities and bind it to the native Android components. It has proven comptency in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns together with userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces).
+- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android applications efficiently together with providing the interoperability with the Android Framework, and accelerating the development time by 35-40% approximately which is the time taken to setup custom Android activities and bind them to the native Android components. It has proven comptency in this pilot project [Game-HCI](https://github.com/Electrostat-Lab/Game-HCI), which houses reusable I/O Game GUI components leveraging the power of the MVC architectural patterns in addition to userinput lifecycle linkage through command-state and strategy patterns (i.e., controller interfaces).
   #### Features:
   * Binding of the Android choreographer lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
   * Splash Screen utility using CPU timeslices using initial frame pacing via Android Handlers.
@@ -51,7 +51,7 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
 ## Pi4j Contributions: 
 > Technical Writing `|` A Featured Project `|` (2022)
 
-Upon the request of one of the Pi4j community leader, I published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introducces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
+Upon the request of one of the Pi4j community leaders, I published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introducces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
 
 ----------------------------------------------------------------------------------------
 
