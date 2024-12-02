@@ -51,7 +51,7 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
 ## Pi4j Contributions: 
 > Technical Writing `|` A Featured Project `|` (2022)
 
-Upon the request of one of the Pi4j community leaders, I published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introducces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
+Upon the request of one of the Pi4j community leaders, I published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introduces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
 
 ----------------------------------------------------------------------------------------
 
