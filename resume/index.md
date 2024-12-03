@@ -67,7 +67,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
 
 ## Electrostatic-Sandbox SDK Suite (WIP)
-> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/) - [YouTube](https://www.youtube.com/watch?v=tkDjPSjAhhM&list=PLNLJxPHSQiq-WZCZQEpUaAA4zXOUlaIOz&index=1)
 >
 > **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Hardware IO Infrastructure (Project: ElectroIO)`, `Software and Networking Infrastructure (Project: ElectroNetSoft)`, and `Simulation Infrastructure (Project: ElectroSim)`.
 >
