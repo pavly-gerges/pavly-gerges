@@ -66,6 +66,23 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 # Projects:
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
 
+## Electrostatic-Sandbox SDK Suite (WIP)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
+>
+> **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Hardware IO Infrastructure (Project: ElectroIO)`, `Software and Networking Infrastructure (Project: ElectroNetSoft)`, and `Simulation Infrastructure (Project: ElectroSim)`.
+>
+> **Vision**: Build a complete layered framework for [distributed simulation systems](https://en.wikipedia.org/wiki/Distributed_Interactive_Simulation) on the top of the GNU/Linux systems to facilitate building distributed systems for scientific simulation of multiple disciplines including smart homes, smart hospitals, medical, aerospace, and military missions simulations.
+>
+> **Architecture**: Essentially, the Electrostatic-Sandbox SDK is a software development suite for designing and building distributed simulation systems, and it's decomposed into 3 subprojects: 
+> * _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores.
+>     * **_Project: ElectroKIO_**: entitled to encapsulate linux kernel userspace APIs that interact with the kernel through file system pipelines providing interfaces for the serial ports (RS232 - USB Serial - PS/2), parallel ports (IEEE-1284), ethernet ports (IEEE-803.2), and PCI-e ports.
+>     * **_Project: ElectroMIO_**: encapsulates agnostic microcontrollers plain driver APIs featuring the AVR MCUs core communication protocols (GPIO - SPI - UART - ADC - TWI - PWM), together with a strong interface for future implementation of other MCU families.
+> * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
+> * _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
+> 
+> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine.
+> 
+
 ## jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 >
@@ -88,7 +105,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 ## Serial4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
 >
-> **Description**: A Java terminal IO framework based on the GNU/Linux termios API for communication with peripheral devices using the serial interface (e.g., USB Serial, RS232, and PS/2).
+> **Description**: A Java terminal IO framework based on the GNU/Linux termios API for communication with peripheral devices using the serial interface (e.g., USB Serial, RS232, and PS/2). Furthermore, it has been migrated to the Electrostatic-Sandbox SDK project!
 >
 > **Architecture**: The base architecture of Serial4j is based on the Data-Flow Systems, particularly Pipe-and-Filter Architectural design (i.e., the Filesystems and byte streams). The pipe is the plain filesystem and byte streams, while the filters are composed of main stream filters imposed by the operating system; that is the _Terminal_, controlling the byte streams and providing buffered, unbuffered, and line feed/return carriage buffered stream routines. Other filters are mutually exclusive components of the architecture known as _Human-Interface-Device_ APIs and _SerialMonitor APIs_; those provide new routines to manipulate byte streams as _Data Frames_; introducing a new type of buffered streams through accumulating data via modal logic (i.e., boolean algebra).
 >
@@ -103,21 +120,6 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > - jMonkeyEngine integration examples with realtime data monitoring.
 >
 > **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - Maven central.
-> 
-
-## Electrostatic-Sandbox SDK Suite (WIP)
-> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/)
->
-> **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Hardware IO Infrastructure (Project: ElectroIO)`, `Software and Networking Infrastructure (Project: ElectroNetSoft)`, and `Simulation Infrastructure (Project: ElectroSim)`.
->
-> **Vision**: Build a complete layered framework for [distributed simulation systems](https://en.wikipedia.org/wiki/Distributed_Interactive_Simulation) on the top of the GNU/Linux systems to facilitate building distributed systems for the scientific simulation of multiple disciplines including smart homes, smart hospitals, medical, aerospace, and military missions simulations.
->
-> **Architecture**: Essentially, the Electrostatic-Sandbox SDK is a software development suite for designing and building distributed simulation systems, and it's decomposed into 3 subprojects: 
-> * _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores.
-> * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
-> * _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
-> 
-> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine.
 > 
 
 ## Articular-ES Framework
