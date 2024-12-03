@@ -9,7 +9,7 @@
 - **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Game Programming Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android SDK - GLSL - OpenGL - Sonatype/Maven Deployment.
 - **Technical Writing**: Documentation - Wikis - GraphViz - Latex.
 - **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB).
-- **Embedded Systems**: C/C++ Programming - Java Native Interface (JNI) - Microcontroller Programming (GPIO, UART, I2C, ADC, PWM, Decoders, Encoders, Circuit Design) - GNU/Linux Libc - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
+- **Embedded Systems**: C/C++ Programming (3+ years) - Java Native Interface (JNI) - Microcontroller Programming (GPIO, UART, I2C, ADC, PWM, Decoders, Encoders, Circuit Design) - GNU/Linux Libc - Kernel userspace APIs (IEEE-1284, RS232/Serial-USB) - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
 - **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
 
 # Experience:
