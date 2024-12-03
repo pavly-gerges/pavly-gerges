@@ -1,15 +1,15 @@
 # About Me:
 > [GitHub](https://github.com/pavly-gerges) - [YouTube](https://www.youtube.com/@pavlg3944) - [LinkedIn](https://www.linkedin.com/in/pavly-gerges-420b81228/) - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm) - [WhatsApp](https://wa.me/201011912807)
 
- A self-taught OSS Engineer from the medical profession with a strong professional background in open-science and open-source Hardware/Software Engineering.
+A Self-taught engineer with a strong background in embedded systems, microcontroller programming, and distributed simulation frameworks. Seeking to contribute to cutting-edge hardware/software co-design projects in embedded systems and IoT industries.
 
 # Skills:
 - **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
+- **Embedded Systems**: C/C++ Programming (3+ years) - Java Native Interface (JNI) - AVR Toolhchain - Android NDK - Embedded Systems Design - Microcontroller Programming (GPIO, UART, I2C, ADC, PWM, Decoders, Encoders, Circuit Design) - GNU/Linux Libc - Kernel userspace APIs (IEEE-1284, RS232/Serial-USB) - Realtime signal processing - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
+- **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB).
 - **Java Platform**: Java Reflection API - Java Native Interface (JNI) - JNI Invocation API - Java Command-line tools.
 - **Crossplatform API Design and development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Game Programming Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android SDK - GLSL - OpenGL - Sonatype/Maven Deployment.
 - **Technical Writing**: Documentation - Wikis - GraphViz - Latex.
-- **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB).
-- **Embedded Systems**: C/C++ Programming (3+ years) - Java Native Interface (JNI) - Microcontroller Programming (GPIO, UART, I2C, ADC, PWM, Decoders, Encoders, Circuit Design) - GNU/Linux Libc - Kernel userspace APIs (IEEE-1284, RS232/Serial-USB) - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
 - **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
 
 # Experience:
@@ -80,7 +80,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
 > * _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
 > 
-> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine.
+> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine - SDK programming - Realtime signal processing.
 > 
 
 ## jSnapLoader API
@@ -116,10 +116,10 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > - Cross-platform capabilities on POSIX interfaces.
 > - Low-level File I/O APIs with `java.io` APIs specializations integratable with other applications.
 > - Full terminal control modes for serial-based file I/O interpreted directly from the GNU/Linux POSIX APIs.
-> - Serial Human-Interface-Device (HID) API providing specializations for serial-based devices signifying the `read()` and `write()` operations and providing preprocessing and postprocessing filtering techniques for encoding, decoding, and encryption/decryption algorithms.
+> - Serial Human-Interface-Device (HID) API providing specializations for serial-based devices and providing preprocessing and postprocessing filtering techniques for encoding, decoding, and encryption/decryption algorithms.
 > - jMonkeyEngine integration examples with realtime data monitoring.
 >
-> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - Maven central.
+> **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - Maven central - Realtime signal processing.
 > 
 
 ## Articular-ES Framework
