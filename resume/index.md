@@ -1,6 +1,4 @@
 # About Me:
-> [GitHub](https://github.com/pavly-gerges) - [YouTube](https://www.youtube.com/@pavlg3944) - [LinkedIn](https://www.linkedin.com/in/pavly-gerges-420b81228/) - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=pepogerges33@gmail.com&su=SUBJECT&body=BODY&bcc=&tf=cm) - [WhatsApp](https://wa.me/201011912807)
-
 A Self-taught engineer with a strong background in embedded systems, microcontroller programming, and distributed simulation frameworks. Seeking to contribute to cutting-edge hardware/software co-design projects in embedded systems and IoT industries.
 
 # Skills:
