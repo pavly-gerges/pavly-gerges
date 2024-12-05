@@ -100,7 +100,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > 
 
 ## Serial4j Framework
-> [GitHub](https://github.com/Electrostat-Lab/Serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
 >
 > **Description**: A Java terminal IO framework based on the GNU/Linux termios API for communication with peripheral devices using the serial interface (e.g., USB Serial, RS232, and PS/2). Furthermore, it has been migrated to the Electrostatic-Sandbox SDK project!
 >
