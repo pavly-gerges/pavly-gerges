@@ -82,25 +82,6 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine - SDK programming - Realtime signal processing.
 > 
 
-## jSnapLoader API
-> [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
->
-> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
-> 
-> **Key Features**:
-> -  Platform-specific dynamic libraries building using platform-specific predicates.
-> -  File Locator and extractor routines (classpath - external jar).
-> -  Retry Criterion with clean extraction.
-> -  EventDispatchers: Extraction Listeners, Loading Listeners, and System Detection Listeners.
-> -  Anti-failure mechanisms.
-> -  Tight handling of memory leaks; as a result of file locator and/or file extractor failures.
-> -  Memory logging of the stream providers' handlers using the object hash keys.
-> -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
->
-> **Used by**:
-> The framework is currently deployed to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
-> 
-
 ## Serial4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j) - [TechDemo](https://www.youtube.com/watch?v=ebsMKR3PFVA)
 >
@@ -119,6 +100,25 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > - jMonkeyEngine integration examples with realtime data monitoring.
 >
 > **Tools**: Java SE Platform - C/C++ - CMake - Gradle - GNU/Linux Libc - Maven central - Realtime signal processing.
+> 
+
+## jSnapLoader API
+> [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
+>
+> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
+> 
+> **Key Features**:
+> -  Platform-specific dynamic libraries building using platform-specific predicates.
+> -  File Locator and extractor routines (classpath - external jar).
+> -  Retry Criterion with clean extraction.
+> -  EventDispatchers: Extraction Listeners, Loading Listeners, and System Detection Listeners.
+> -  Anti-failure mechanisms.
+> -  Tight handling of memory leaks; as a result of file locator and/or file extractor failures.
+> -  Memory logging of the stream providers' handlers using the object hash keys.
+> -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
+>
+> **Used by**:
+> The framework is currently deployed to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
 > 
 
 ## Articular-ES Framework
@@ -142,15 +142,6 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Description and features**: A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
 > 
-
-## Jector Framework
-> [GitHub](https://github.com/Electrostat-Lab/Jector) - [TechDemo](https://www.youtube.com/watch?v=CjjXpxce37w) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/jector)
->
-> **Description**: An advanced DI framework for JVM and Android applications based on the Java Reflection API with a specialized implementation for jMonkeyEngine Applications.
->
-> **Features**: Jector provides a programming concurrent (order-parallelism/sync) model for best practices by injecting functions' stacks into schedulable tasks, and in turn into their designated threads. Threads can be activated and controlled to achieve either parallelism or synchronicity. Its threading model could be used for assets asynchronous loading, async tasks execution, and mutual multithreading (threading using mutual events).
->
-> **Tools**: Java SE Platform - Gradle - jMonkeyEngine Framework.
 
 # My Education:
 Graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with a Bachelor degree of Medicine and Surgery (M.B.B.Ch.) and GPA-3.15.
