@@ -118,7 +118,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
 >
 > **Used by**:
-> The framework is currently deployed to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
+> Authored a stable deployment on maven-central to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
 > 
 
 ## Articular-ES Framework
@@ -135,13 +135,17 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > * Built on top of abstract Memory Maps providing behavior-agnostic architecture.
 > 
 > **Tools**: Java SE Platform - Gradle - Entity-Component-System Architecture - jMonkeyEngine Framework - GitHub Actions (CI/CD).
-> 
+>
+> **Deployment**: Authored semi-stable pre-releases on maven-central.
 
 ## Automata4j Framework
 > [GitHub](https://github.com/Electrostat-Lab/Automata4j) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7014704404347949056/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7014704404347949056%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=%2BI05adX4SQKtJ99ZQvk5DQ%3D%3D) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/automata4j)
 >
 > **Description and features**: A classic finite-states-automata (FSA) framework for JVM and Android applications featuring both the `Deterministic Finite Automata (DFA)` and the `Non-deterministic Finite Automata (NDFA)` together with the ability to cache states beforehand in finite-automata aggregates, through the `CascadedTransition` components, a type of finite-states transition path that superimposes cascaded paths through abstract `Queue` data structures.
+>
+> **Vision**: It's contemplated that this paradigm will enhance embedded systems development by 2x its speed while keeping the logic close to the formal logic.
 > 
+> **Deployment**: Authored pre-releases on maven-central as a future application-level paradigm (competing object-oriented and functional paradigms using computational modelling).
 
 # My Education:
 Graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with a Bachelor degree of Medicine and Surgery (M.B.B.Ch.) and GPA-3.15.
