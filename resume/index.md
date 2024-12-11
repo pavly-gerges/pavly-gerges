@@ -40,7 +40,7 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
   * Potential memory leaks at the File descriptor wrapper utilized by the vorbis decoder library.
   * Added Java documentation describing the correct pattern for the vorbis decoder.
 
-- **Writing JavaDoc for an Old Animation System (MonkeyAnim)**: I've taken the initiative in writing JavaDocs for a 7-year-old undocumented and vague animation system (MonkeyAnim), and succeeded with the team guidance to [deliver some of it](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges) on the currently working release [jMonkeyEngine v3.7.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.7.0-alpha1). The undocumented animation system was limiting our understanding of some parts implemented on the internals of the system which was hindering the development lifecycle of some games that rely heavily on the animation system.
+- **Writing JavaDoc for an Old Animation System (MonkeyAnim)**: I've taken the initiative in writing JavaDocs for a 7-year-old undocumented and vague animation system (MonkeyAnim), and succeeded with the team guidance to [deliver some of it](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges) on the currently working release [jMonkeyEngine v3.7.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.7.0-alpha1).
 
 - **Issues support and Community Management participations**: Issues related to the Android [jme3-android](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-android?author=pavly-gerges), and the core modules [jme3-core](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-core?author=pavly-gerges).
 
@@ -64,7 +64,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 # Projects:
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
 
-## Electrostatic-Sandbox SDK Suite (WIP)
+## Electrostatic-Sandbox SDK Suite
 > [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/) - [YouTube](https://www.youtube.com/watch?v=tkDjPSjAhhM&list=PLNLJxPHSQiq-WZCZQEpUaAA4zXOUlaIOz&index=1)
 >
 > **Description**: A work-in-progress open-source code-first complete SDK and development suite for distributed simulation systems based on the IEEE-1516 High-level Architecture Interface, GNU/Linux Kernel userspace APIs, and NASA DSES. The infrastructure of the sytem is subdivided into `Hardware IO Infrastructure (Project: ElectroIO)`, `Software and Networking Infrastructure (Project: ElectroNetSoft)`, and `Simulation Infrastructure (Project: ElectroSim)`.
@@ -78,7 +78,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
 > * _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
 > 
-> **Hardware/PCB design and prototyping**: Designed and assembled a custom development board, the _"ElectroIO"_ for prototyping, wiring, and building projects using the _ElectroMIO_ IO API. The board is a modular multiple PCB boards featuring a _CPU Module_, a _Power Module_, and a _Comm Module_ enabling hardware durability and adaptability for newly designed CPU Modules, in addition to decreasing the design and implementation time of the newly created boards by more than 50% of the time.
+> **Hardware/PCB design and prototyping**: Designed and assembled a custom development board, the _"ElectroIO"_ development board, for prototyping, wiring, and building projects using the _ElectroMIO_ IO API. The board is a modular multiple PCB boards featuring a _CPU Module_, a _Power Module_, and a _Comm Module_ enabling hardware durability and adaptability for newly designed CPU Modules, in addition to decreasing the design and implementation time of the novel boards by more than 50% of the time; as hardware modules are adaptable and reusable across almost all microcontrollers.
 > 
 > **Technical Writing**: The [AvrSandbox](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/embedded-system-design/avr-sandbox) blogs for embedded systems providing tutorials for common embedded protocols (e.g., GPIO, SPI, ADC) using the AVR MCUs, and digital design (e.g., Multiplexers, De-multiplexers, Shift Registers).
 > 
@@ -108,14 +108,13 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 ## jSnapLoader API
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 >
-> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in subsequent runtimes, and supports building loader instances for new platforms via the platform predicates feature. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
+> **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in subsequent runtimes. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
 > 
 > **Key Features**:
 > -  Platform-specific dynamic libraries building using platform-specific predicates.
 > -  File Locator and extractor routines (classpath - external jar).
-> -  Retry Criterion with clean extraction.
 > -  EventDispatchers: Extraction Listeners, Loading Listeners, and System Detection Listeners.
-> -  Anti-failure mechanisms.
+> -  Anti-failure mechanisms with retry criteria.
 > -  Tight handling of memory leaks; as a result of file locator and/or file extractor failures.
 > -  Memory logging of the stream providers' handlers using the object hash keys.
 > -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
