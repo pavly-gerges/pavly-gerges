@@ -4,6 +4,7 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 # Skills:
 - **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
 - **Embedded Systems**: C/C++ Programming (3+ years) - Java Native Interface (JNI) - AVR Toolhchain - Android NDK - Embedded Systems Design (Decoders, Encoders, Circuit Design) - Microcontroller Programming (GPIO, UART, I2C, SPI, ADC, PWM) - Technical Datasheet Analysis - GNU/Linux Libc - Kernel userspace APIs (IEEE-1284, RS232/Serial-USB) - Realtime signal processing - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
+- **Electronics**: Hardware Prototyping - Soldering for assembly and repair - PCB Design - Kicad - Multimeters - Custom development modules.
 - **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB).
 - **Crossplatform API development**: Software Architectural Design - Concurrent Programming - Object-oriented Design - Design Patterns - Game Programming Patterns - Entity-Component-System Design - Procedural Programming (Finite Automata) - Sqlite DB - Data Structures - Algorithms - POSIX - GNU Compiler Collection (GCC) - Android SDK - GLSL - OpenGL - Sonatype/Maven Deployment.
 - **Technical Writing**: Documentation - Wikis - GraphViz - Latex.
@@ -77,9 +78,11 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
 > * _Project: ElectroSim_, encapsulates the _Runtime Infrastructure_ and the interfaces of the [HLA IEEE-1516 Standard](https://standards.ieee.org/ieee/1516/3744/) provided by IEEE for distributed simulation systems.
 > 
+> **Hardware/PCB design and prototyping**: Designed and assembled a custom development board, the _"ElectroIO"_ for prototyping, wiring, and building projects using the _ElectroMIO_ IO API. The board is a modular multiple PCB boards featuring a _CPU Module_, a _Power Module_, and a _Comm Module_ enabling hardware durability and adaptability for newly designed CPU Modules, in addition to decreasing the design and implementation time of the newly created boards by more than 50% of the time.
+> 
 > **Technical Writing**: The [AvrSandbox](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/embedded-system-design/avr-sandbox) blogs for embedded systems providing tutorials for common embedded protocols (e.g., GPIO, SPI, ADC) using the AVR MCUs, and digital design (e.g., Multiplexers, De-multiplexers, Shift Registers).
 > 
-> **Tools**: C/C++ - Java - Gradle - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine - SDK programming - Realtime signal processing.
+> **Tools**: C/C++ - Java - Gradle - Kicad - Multimeters - CMake - Bash - GNU/Linux Libc - Dot (GraphViz) - Tex (Latex) - AVR Toolchains - Android NDK - jMonkeyEngine - SDK programming - Realtime signal processing.
 > 
 
 ## Serial4j Framework
