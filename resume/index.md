@@ -72,7 +72,7 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > **Vision**: Build a complete layered framework for [distributed simulation systems](https://en.wikipedia.org/wiki/Distributed_Interactive_Simulation) on the top of the GNU/Linux systems to facilitate building distributed systems for scientific simulation of multiple disciplines including smart homes, smart hospitals, medical, aerospace, and military missions simulations.
 >
 > **Architecture**: Essentially, the Electrostatic-Sandbox SDK is a software development suite for designing and building distributed simulation systems, and it's decomposed into 3 subprojects: 
-> * _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores.
+> * _Project: ElectroIO_, includes both _ElectroKIO_ and _ElectroMIO_ modules, and encapsulates the I/O channels cores (e.g., GPIO, SPI, ADC, TWI, ...).
 >     * **_Project: ElectroKIO_**: entitled to encapsulate linux kernel userspace APIs that interact with the kernel through file system pipelines providing interfaces for the serial ports (RS232 - USB Serial - PS/2), parallel ports (IEEE-1284), ethernet ports (IEEE-803.2), and PCI-e ports.
 >     * **_Project: ElectroMIO_**: encapsulates agnostic microcontrollers plain driver APIs featuring the AVR MCUs core communication protocols (GPIO - SPI - UART - ADC - TWI - PWM), together with a strong interface for future implementation of other MCU families.
 > * _Project: ElectroNetSoft_, includes the software libraries (e.g., arithmos, di, articular-es,...) and the networking interfaces for some compatible IO cores.
