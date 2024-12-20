@@ -16,11 +16,11 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 Contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design.
 
 ### Contributions:
-- **JmeSurfaceView**: Proposed and introduced a GL Surface View handler component for Android.
+- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Proposed and introduced a GL Surface View handler component for Android.
   - Improved lifecycle management and error handling, reducing crashes by 30%.
-- **ContrastAdjustmentFilter**: Developed GLSL API for 3D-color-gamut contrast control.
+- **[ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665)**: Developed GLSL API for 3D-color-gamut contrast control.
   - Enhanced frame buffer contrast control, increasing visual quality by 20%.
-- **Android Audio Bug Fix**: Resolved issues in the Android vorbis audio decoder library.
+- **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Resolved issues in the Android vorbis audio decoder library.
   - Fixed double file closure, reducing memory leaks by 50%.
 - **JavaDoc for MonkeyAnim**: Documented a 7-year-old animation system.
   - Improved codebase maintainability and onboarding efficiency by 40%.
@@ -43,7 +43,7 @@ Provide a fully-fledged POSIX-based Open-Source Distributed Simulation Framework
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization.
 
 ## Electrostatic-Sandbox SDK Suite:
-> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/) - [YouTube](https://www.youtube.com/watch?v=tkDjPSjAhhM&list=)
+> [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/) - [YouTube](https://www.youtube.com/watch?v=tkDjPSjAhhM&list=PL0JtL0XKyyP3xB7LqQbWQ9OZ6U8thk3pV)
 - **Description**: Open-source SDK for distributed simulation systems based on IEEE-1516 High-level Architecture Interface.
 - **Architecture**: Decomposed into ElectroIO, ElectroNetSoft, and ElectroSim projects.
 - **Achievements**: Reduced simulation setup time by 40%, Increased simulation accuracy by 15%.
@@ -59,7 +59,7 @@ Provide a fully-fledged POSIX-based Open-Source Distributed Simulation Framework
 > [GitHub](https://github.com/Electrostat-Lab/jSnapLoader) - [Maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/snaploader)
 - **Description**: High-performance Native Dynamic Library extractor and loader for JVM and Android Applications.
 - **Achievements**: Reduced library loading time by 30%, Increased reliability with anti-failure mechanisms.
-- **Used by**: Jolt-jni, Serial4j.
+- **Used by**: [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j).
 
 ## Articular-ES Framework:
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-engineering/articular-es)
@@ -71,7 +71,7 @@ Provide a fully-fledged POSIX-based Open-Source Distributed Simulation Framework
 > [GitHub](https://github.com/Electrostat-Lab/Automata4j) - [TechDemo](https://www.linkedin.com/feed/update/urn:li:activity:7014704404347949056)
 - **Description**: Finite-states-automata (FSA) framework for JVM and Android applications.
 - **Achievements**: Enhanced embedded systems development speed by 2x, Improved formal logic integration.
-- **Deployment**: Pre-releases on maven-central.
+- **Deployment**: Pre-releases on [maven-central](https://central.sonatype.com/artifact/io.github.electrostat-lab/automata4j).
 
 # Education:
 Graduated from [Faculty of Medicine and Surgery, October 6 University](https://o6u.edu.eg/Faculties.aspx?FactId=2) in 2023 with a Bachelor degree of Medicine and Surgery (M.B.B.Ch.) and GPA 3.15.
