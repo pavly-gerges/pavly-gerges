@@ -2,7 +2,7 @@
 A Self-taught engineer with a strong background in embedded systems, microcontroller programming, and distributed simulation frameworks. Seeking to contribute to cutting-edge hardware/software co-design projects.
 
 # Skills:
-- **Languages**: Java (5+ years), C/C++ (3+ years), Kotlin (2 years), Bash (Shell Scripting), Dot (GraphViz).
+- **Languages**: Java (5+ years), C/C++ (3+ years), Kotlin, Bash (Shell Scripting), Dot (GraphViz).
 - **Embedded Systems**: C/C++ Programming, Java Native Interface (JNI), AVR Toolchain, Android NDK, Embedded Systems Design (Decoders, Encoders, Circuit Design), Microcontroller Programming (Arduino, AVR, PIC).
 - **Electronics**: Hardware Prototyping, Soldering for assembly and repair, PCB Design, Kicad, Multimeters, Custom development modules.
 - **Building, Automation and Testing**: CMake, Bash, Git, GitHub, GitHub Actions (CI/CD), Gradle, Gradle Multi-project Builds, Valgrind, jconsole, GNU Debugger (GDB).
@@ -22,7 +22,7 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
   - Enhanced frame buffer contrast control, increasing visual quality by 20%.
 - **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Resolved issues in the Android vorbis audio decoder library.
   - Fixed double file closure, reducing memory leaks by 50%.
-- **JavaDoc for MonkeyAnim**: Documented a 7-year-old animation system.
+- **[JavaDoc for MonkeyAnim](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1593)**: Documented a 7-year-old animation system.
   - Improved codebase maintainability and onboarding efficiency by 40%.
 - **Community Management**: Issues support and participation in community discussions.
   - Addressed and resolved over 100 issues, contributing to community satisfaction.
