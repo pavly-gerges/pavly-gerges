@@ -22,7 +22,7 @@ Contributing to jMonkeyEngine, an open-source code-first approach complete 3D ga
   - Enhanced frame buffer contrast control, increasing visual quality by 20%.
 - **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Resolved issues in the Android vorbis audio decoder library.
   - Fixed double file closure, reducing memory leaks by 50%.
-- **[JavaDoc for MonkeyAnim](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1593)**: Documented a 7-year-old animation system.
+- **[JavaDoc for MonkeyAnim](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges)**: Delivered some documentation to a 7-year-old animation system.
   - Improved codebase maintainability and onboarding efficiency by 40%.
 - **Community Management**: Issues support and participation in community discussions.
   - Addressed and resolved over 100 issues, contributing to community satisfaction.
