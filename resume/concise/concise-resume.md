@@ -2,7 +2,7 @@
 A Self-taught engineer with a strong background in embedded systems, microcontroller programming, and distributed simulation frameworks. Seeking to contribute to cutting-edge hardware/software co-design projects.
 
 # Skills:
-- **Languages**: Java (5+ years), C/C++ (3+ years), Kotlin (2 years), Bash (Shell Scripting) (4 years), Dot (GraphViz).
+- **Languages**: Java (5+ years), C/C++ (3+ years), Kotlin (2 years), Bash (Shell Scripting), Dot (GraphViz).
 - **Embedded Systems**: C/C++ Programming, Java Native Interface (JNI), AVR Toolchain, Android NDK, Embedded Systems Design (Decoders, Encoders, Circuit Design), Microcontroller Programming (Arduino, AVR, PIC).
 - **Electronics**: Hardware Prototyping, Soldering for assembly and repair, PCB Design, Kicad, Multimeters, Custom development modules.
 - **Building, Automation and Testing**: CMake, Bash, Git, GitHub, GitHub Actions (CI/CD), Gradle, Gradle Multi-project Builds, Valgrind, jconsole, GNU Debugger (GDB).
