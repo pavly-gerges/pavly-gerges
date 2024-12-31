@@ -155,3 +155,6 @@ Graduated from [Faculty of Medicine and Surgery, October 6 University](https://o
 # Overview of my Computer Engineering education:
 Equivalent experience of bachelor's degree of computer science tailored for Embedded Systems. (Theory of computation - Discrete Mathematics - Calculus - Digital and Analog Electronics - Computer Organization - Software Design - Data structure and algorithms design - Programming languages).
 
+# Hobbies:
+Analysis of complex systems, such as: catastrophic engineering events, and critical-care cases, using analysis model (the automata theory - the Swiss cheese model - the SES framework).
+
