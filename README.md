@@ -46,6 +46,13 @@ Hey! Welcome. My name is Pavly Gerges. I am essentially a Self-taught Android an
 <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Java Instrumentation - <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> GNU/Linux Virtualization - <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> GNU Debugger (GDB) - <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Applied Linear algebra and calculus -
 <img src="https://user-images.githubusercontent.com/60224159/203134210-b4304316-c9af-4d89-a795-728ee2e1e2fb.svg" name="unchecked" width=20 height=20></img> Advanced electronics and embedded systems 
 
+#### Highlighted Projects and Contributions:
+* [The Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master): a complete work-in-progress SDK suite for distributed simulation systems based on IEEE-1516 HLA Spec. and NASA DSES together with MCU bare-metal support and a stock Java binding interface.
+* [jSnapLoader](https://github.com/Electrostat-Lab/jSnapLoader): a high-performance native library extractor and loader for JVM applications powered by an incremental loader and anti-failure mechanisms for fast-load-reload actions, and much more reliable software flow.
+* [Therac-25](https://github.com/Electrostat-Lab/Therac-25): analysing Therac-25 complex system failure using mathematical models, and introducing suggested solutions to safety-critical systems industry and community.
+* [Electrostat-Lab Contributions](https://github.com/orgs/Electrostat-Lab/repositories?type=all&q=mirror%3Afalse+fork%3Afalse+).
+* [jMonkeyEngine-Contributions.](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges)
+
 #### <img src="https://user-images.githubusercontent.com/60224159/202689343-a71393c1-380f-412d-a3d8-3245bdd5a298.svg" width=40 height=40></img> Notes:
 > Currently, since I am very busy, I only accept Long-Lasting time-planned open-source projects, if you would like to start an open-source project for your organization, message me on twitter or linkedin.
 
