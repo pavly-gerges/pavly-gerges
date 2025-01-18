@@ -55,10 +55,11 @@ Upon the request of one of the Pi4j community leaders, I published a hybrid proj
 ## Electrostat-Lab Open-source Contributions: 
 > OSS Embedded and Android Projects `|` (2020 - Present)
 
-During the last 2 years, I've started my own open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization. 
-
-### The vision of this organization:
-The current vision of the Electrostat-Lab organization is to provide [a fully-fledged POSIX-based Open-Source Distributed Simulation Framework](https://github.com/Electrostat-Lab/Electrostatic-Sandbox); and it does this perfectly by dividing the framework into several smaller frameworks and APIs of re-usable code.
+* Designed and developed open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
+* Leading the design philosophy and the active development of the [Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) for distributed simulation systems.
+* Led the design philosophy, development and deployment of [jSnapLoader](https://github.com/Electrostat-Lab/jSnapLoader/) stable release on maven-central reducing time porting the native Java frameworks to other platforms by approx. **30%** by its unique design philosophy that utilizes `Platform Predicates` instead of the dirty nested conditional statements.
+* Led the design, development and deployment of [Jector](https://github.com/Electrostat-Lab/Jector) on maven-central reducing the frame drops by approx. **70%** of frames per a single second especially while loading assets by providing a concurrency programming model based on the dependency injection pattern.
+* Led the design philosophy and development of [ffplay-ip-cam](https://github.com/Electrostat-Lab/ffplay-ip-cam) minimizing the hassle of recording videos on GNU/Linux systems using Smart IP Cameras.
 
 # Projects:
 [My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
