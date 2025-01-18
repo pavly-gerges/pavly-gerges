@@ -11,7 +11,7 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 - **Pure Science**: Scientific Modelling - Scientific Philosophy - Discrete Mathematics - Calculus - Linear Algebra - Medical and Clinical Sciences.
 
 # Experience:
-> Essentially, all my contributions are entitled to open-source projects through different routes, either through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) or through self-initiated projects on [Electrostat-Lab](https://github.com/Electrostat-Lab) organization, see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
+> Contributed to open-source projects through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) and projects on the [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
 
 ## jMonkeyEngine Contributions: 
 > Contributor `|` (2020 - Present)
@@ -54,16 +54,15 @@ Upon the request of one of the Pi4j community leaders, I published a hybrid proj
 
 ## Electrostat-Lab Open-source Contributions: 
 > OSS Embedded and Android Projects `|` (2020 - Present)
+> Led the design, development and deployment of open-source projects solving various real-life problems; see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
 
 * Designed and developed open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
-* Leading the design philosophy and the active development of the [Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) for distributed simulation systems.
+* Leading the design philosophy and the active development of the [Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) for distributed simulation systems; it's deemed to enhance system design and development compliancy to be **100%** based on the **IEEE-1516 standardization for distributed simulation systems**.
 * Led the design philosophy, development and deployment of [jSnapLoader](https://github.com/Electrostat-Lab/jSnapLoader/) stable release on maven-central reducing time porting the native Java frameworks to other platforms by approx. **30%** by its unique design philosophy that utilizes `Platform Predicates` instead of the dirty nested conditional statements.
 * Led the design, development and deployment of [Jector](https://github.com/Electrostat-Lab/Jector) on maven-central reducing the frame drops by approx. **70%** of frames per a single second especially while loading assets by providing a concurrency programming model based on the dependency injection pattern.
 * Led the design philosophy and development of [ffplay-ip-cam](https://github.com/Electrostat-Lab/ffplay-ip-cam) minimizing the hassle of recording videos on GNU/Linux systems using Smart IP Cameras.
 
 # Projects:
-[My projects](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all) are located on the [Electrostat-Lab](https://github.com/Electrostat-Lab) GitHub organization. You can find them by typing `electrostat-lab` in the search to search for repositories with this tag. Of which, those are the most coolest projects that I've:
-
 ## Electrostatic-Sandbox SDK Suite
 > [GitHub](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) - [Website](https://electrostat-lab.github.io/Electrostatic-Sandbox/) - [YouTube](https://www.youtube.com/watch?v=tkDjPSjAhhM&list=PLNLJxPHSQiq-WZCZQEpUaAA4zXOUlaIOz&index=1)
 >
@@ -135,7 +134,4 @@ Graduated from [Faculty of Medicine and Surgery, October 6 University](https://o
 
 # Overview of my Computer Engineering education:
 Equivalent experience of bachelor's degree of computer science tailored for Embedded Systems. (Theory of computation - Discrete Mathematics - Calculus - Digital and Analog Electronics - Computer Organization - Software Design - Data structure and algorithms design - Programming languages).
-
-# Hobbies:
-Analysis of complex systems, such as: catastrophic engineering events, and critical-care cases, using analysis model (the automata theory - the Swiss cheese model - the SES framework).
 
