@@ -53,7 +53,7 @@ Upon the request of one of the Pi4j community leaders, I published a hybrid proj
 ----------------------------------------------------------------------------------------
 
 ## Electrostat-Lab Open-source Contributions: 
-> OSS Embedded and Android Projects `|` (2020 - Present)
+> OSS Embedded and Android Projects `|` (2020 - Present) <br/>
 > Led the design, development and deployment of open-source projects solving various real-life problems; see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
 
 * Designed and developed open-source projects at [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
