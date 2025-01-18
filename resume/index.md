@@ -8,11 +8,9 @@ Java (4 years) | C/C++ (3+ years) | Kotlin | Bash (Shell Scripting) | Software A
 > Contributed to open-source projects through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) and projects on the [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
 
 ## jMonkeyEngine Contributions: 
-> Contributor `|` (2020 - Present)
+> Contributor `|` (2020 - Present) <br/>
+> [Contributed to jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges), an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design.
 
-Contributing to jMonkeyEngine, an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design, **for 4 years**.
-
-### [Contributions](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges) during this period:
 - **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Designed and developed a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android applications efficiently together with providing the interoperability with the Android Framework, and **accelerating the development time by 50% approx. when it comes to integrating OGLES renderers in the already-existing Android Apps**.
   #### Brief list of features:
   * Binding of the Android choreographer lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
