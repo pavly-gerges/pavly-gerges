@@ -109,15 +109,6 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 >
 > **Description**: A high-performance platform-independent Native Dynamic Library extractor and loader for JVM and Android Applications based on the Data-Flow and the Hierarchial Architectural patterns powered by an incremental extraction system that reduces libraries loading time significantly in subsequent runtimes. Futhermore, the library solves the most headache-producing problem in developing cross-platform native applications; which is creating predicates for each system in the form of nested conditional statements, this library solves the problem using formula objects known as _PlatformPredicates_, which are formed of `P(X) = (OS && CPU && ARCH)`.
 > 
-> **Key Features**:
-> -  Platform-specific dynamic libraries building using platform-specific predicates.
-> -  File Locator and extractor routines (classpath - external jar).
-> -  EventDispatchers: Extraction Listeners, Loading Listeners, and System Detection Listeners.
-> -  Anti-failure mechanisms with retry criteria.
-> -  Tight handling of memory leaks; as a result of file locator and/or file extractor failures.
-> -  Memory logging of the stream providers' handlers using the object hash keys.
-> -  Assets extraction through the `Filesystem` API (e.g., gltf files and images).
->
 > **Used by**:
 > Authored a stable deployment on maven-central to be used by [Jolt-jni](https://github.com/stephengold/snap-jolt/tree/master), [Serial4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j/serial4j), and [Electrostatic4j](https://github.com/Electrostat-Lab/Electrostatic-Sandbox/tree/master/electrostatic-sandbox-framework/electrostatic4j).
 > 
@@ -126,16 +117,6 @@ The current vision of the Electrostat-Lab organization is to provide [a fully-fl
 > [GitHub](https://github.com/Electrostat-Lab/Articular-ES) - [TechDemo](https://www.youtube.com/watch?v=CnjUakuqlMI) - [Maven-central](https://central.sonatype.com/artifact/io.github.software-hardware-codesign/articular-es)
 >
 > **Description**: An entity component system (ECS) framework featuring strong articulations among components from different systems through controller interfaces. The API is powered by a caching system that enables caching data in different configurations. Operational interactions take place within the system manager through the controller objects. The API provides a strong abstraction based on the data-centered architecture with the ability to model complex systems, such as: Human Interface Devices (HID) APIs, and language processing and translational APIs.
->
-> **Architecture**: The API provides a strong abstraction based on the data-centered architecture with the ability to model complex systems, such as: Human Interface Devices (HID) APIs, and language processing and translational APIs. The framework is composed structurally of `Systems`, `Entities`, `Modules`, and `Components`, while behaviorly of `SystemControllers` and `DataPipes`.
->
-> **Key Features**:
-> * Entity-Component-System Data-centered standard architecture.
-> * System Modules providing further software modularity.
-> * Data pipe components facilitating modelling relations between components.
-> * Built on top of abstract Memory Maps providing behavior-agnostic architecture.
-> 
-> **Tools**: Java SE Platform - Gradle - Entity-Component-System Architecture - jMonkeyEngine Framework - GitHub Actions (CI/CD).
 >
 > **Deployment**: Authored semi-stable pre-releases on maven-central.
 
