@@ -17,7 +17,7 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 > Contributor `|` (2020 - Present) <br/>
 > [Contributed to jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges), an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design.
 
-- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Designed and developed a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android applications efficiently together with providing the interoperability with the Android Framework, and **accelerating the development time by 50% approx. when it comes to integrating OGLES renderers in the already-existing Android Apps**.
+- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Designed, developed, tested, and actively maintaining a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android applications efficiently together with providing the interoperability with the Android Framework, and **accelerating the development time by 50% approx. when it comes to integrating OGLES renderers in the already-existing Android Apps**.
   #### Brief list of features:
   * Binding of the Android choreographer lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
   * Splash Screen utility using CPU timeslices by initial frame pacing via Android Handlers.
@@ -25,13 +25,13 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
   * Verbose advanced error dialog for exception handling and reporting bugs.
   * Prompt memory handlers bound to the activity life cycle and the static game states utilities.
 
-- **[ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665)**: Designed and developed a postprocessor filter GLSL API that controls the 3D-color-gamut contrast of a frame buffer based on a power law with clamp values applied on the RGBA color vectors, making it easier to adjust scene colors contrast out-of-the-box (e.g., in day-night transition scenes). The feature was integrated in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
+- **[ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665)**: Designed, developed, tested and actively maintaining a postprocessor filter GLSL API that controls the 3D-color-gamut contrast of a frame buffer based on a power law with clamp values applied on the RGBA color vectors, making it easier to adjust scene colors contrast out-of-the-box (e.g., in day-night transition scenes). The feature was integrated in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
   #### Brief list of features:
   * 3D-color-gamut normalization to an input range.
   * Sanity guards against negative floating points.
   * Scalable inverse power law on the 3D-color gamut.
 
-- **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Resolved issues of file resources release and ownership in the Android vorbis audio decoder library. The issue was preventing Android users from playing OGG files on Android systems due to the [Android file descriptor sanitizer](https://android.googlesource.com/platform/bionic/+/master/docs/fdsan.md) which protects the Unix file systems against anti-patterns.
+- **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Reproduced and resolved issues of file resources release and ownership in the Android vorbis audio decoder library. The issue was preventing Android users from playing OGG files on Android systems due to the [Android file descriptor sanitizer](https://android.googlesource.com/platform/bionic/+/master/docs/fdsan.md) which protects the Unix file systems against anti-patterns.
   #### Issues resolved:
   * An anti-pattern forcing a double file closure on the native NDK/JNI-side.
   * Potential memory leaks at the File descriptor wrapper utilized by the vorbis decoder library.
@@ -46,7 +46,7 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 ## Pi4j Contributions: 
 > Technical Writing `|` A Featured Project `|` (2022)
 
-Upon the request of one of the Pi4j community leaders, I published a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introduces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
+Upon the request of one of the Pi4j community leaders, I published an article about a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introduces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
 
 ----------------------------------------------------------------------------------------
 
