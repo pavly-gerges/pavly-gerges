@@ -2,7 +2,7 @@
 A self-taught embedded software engineer with a demonstrated background in embedded systems, microcontroller programming, and distributed simulation theory seeking to contribute to open-source software in _Embedded Microcontroller Programming_ and _Embedded Linux_ domains. I essentially architect, develop, implement, and maintain open-source embedded software products taking ideas from observation and theory to real life fully-fledged software to solve low-level devastating problems in Embedded Systems industry. My vision is to port **the Computational Theory** especially **the Automata Theory** to be an explicit part of the Embedded Software Design providing highly reliable scientific ways of Software Engineering and problem solving techniques.
 
 # Skills:
-- **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
+- **Programming Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
 - **Embedded Systems**: C/C++ Programming (3+ years) - Java Native Interface (JNI) - AVR Toolhchain - Android NDK - Embedded Systems Design (Decoders, Encoders, Circuit Design) - Microcontroller Programming (GPIO, UART, I2C, SPI, ADC, PWM) - Technical Datasheet Analysis - GNU/Linux Libc - Kernel userspace APIs (IEEE-1284, RS232/Serial-USB) - Realtime signal processing - jMonkeyEngine Framework - Hardware/Software Co-design - Distributed Simulations.
 - **Electronics**: Hardware Prototyping - Soldering for assembly and repair - PCB Design - Kicad - Multimeters - Custom development modules.
 - **Building, Automation and Testing**: CMake - BASH - Git/GitHub VCS - GitHub Actions (CI/CD) - Gradle - Gradle Multi-project Builds - Valgrind - jconsole - GNU Debugger (GDB).
