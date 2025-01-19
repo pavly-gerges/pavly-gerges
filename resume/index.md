@@ -1,5 +1,5 @@
 # About Me:
-A Self-taught engineer with a strong background in embedded systems, microcontroller programming, and distributed simulation frameworks. Seeking to contribute to cutting-edge hardware/software co-design projects in embedded systems and IoT industries.
+A Self-taught engineer with a strong background in embedded systems, microcontroller programming, and distributed simulation theory. I architect, develop, implement, and maintain open-source embedded software products to solve low-level devastating problems in Embedded Systems industry. My vision is to port **the Computational Theory** especially **the Automata Theory** to be an explicit part of the Embedded Software Design providing highly reliable scientific ways of Software Engineering and problem solving techniques.
 
 # Skills:
 - **Languages**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
