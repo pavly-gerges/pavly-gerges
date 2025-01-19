@@ -33,7 +33,7 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 
 - **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Resolved issues of file resources release and ownership in the Android vorbis audio decoder library. The issue was preventing Android users from playing OGG files on Android systems due to the [Android file descriptor sanitizer](https://android.googlesource.com/platform/bionic/+/master/docs/fdsan.md) which protects the Unix file systems against anti-patterns.
   #### Issues resolved:
-  * An anti-pattern introducing a double file closure.
+  * An anti-pattern forcing a double file closure on the native NDK/JNI-side.
   * Potential memory leaks at the File descriptor wrapper utilized by the vorbis decoder library.
   * Added Java documentation describing the correct pattern for the vorbis decoder.
 
