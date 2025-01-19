@@ -13,6 +13,22 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 # Experience:
 > Contributed to open-source projects through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) and projects on the [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
 
+## Electrostat-Lab Open-source Contributions: 
+> OSS Embedded and Android Projects `|` (2020 - Present) <br/>
+> Led the design, development and deployment of open-source projects solving various real-life problems; see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
+
+* Leading the design philosophy, the active development, the maintenance, and the prototyping of the [Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) for distributed simulation systems; it's deemed to enhance system design and development compliancy to be **100%** based on the **IEEE-1516 standardization for distributed simulation systems**.
+* Led the design philosophy, development, testing, and maintenance of [Serial4j](https://github.com/Electrostat-Lab/Serial4j), a Java terminal I/O library for character devices on GNU/Linux systems, providing a model for the integration of custom hardware controllers into the already-existing jMonkeyEngine Games.
+* Led the design philosophy, development, testing, and deployment of [jSnapLoader](https://github.com/Electrostat-Lab/jSnapLoader), a high-performance cross-platform native dynamic libraries loader (DLL) for JVM and Android applications powered by an incremental loading system, stable release on maven-central reducing time porting the native Java frameworks to other platforms by approx. **30%** by its unique design philosophy that utilizes `Platform Predicates` instead of the dirty nested conditional statements.
+* Led the design philosophy, development, testing, and deployment of [Jector](https://github.com/Electrostat-Lab/Jector), a concurrency model API featuring the dependency injection and lazy execution patterns, on maven-central reducing the frame rendering latency and the frame drops by approx. **70%** of frames per a single second especially while loading assets by providing a concurrency programming model based on the dependency injection pattern.
+* Led the design philosophy, development, testing, and deployment of [Automata4j](https://github.com/Electrostat-Lab/Automata4j), a classic finite-state-automaton framework for JVM and Android applications, as a proof-of-concept (POF) for _the applied computational theory_ with an approx. **80%** compliancy on the formal logic of **_the Automata Theory_** minimizing the effort of implementing scientific prototypes and projects that are based on the Automata Theory (e.g., research projects based on the formal languages).
+* Led the design philosophy and development of [ffplay-ip-cam](https://github.com/Electrostat-Lab/ffplay-ip-cam), a complete structured script toolset for IP Cameras AV streaming, solving the issue of realtime streaming and recording video and audio on GNU/Linux systems using Smart IP Cameras over the RTSP Protocol.
+
+## Pi4j Contributions: 
+> Technical Writing `|` A Featured Project `|` (2022)
+
+Upon the request of one of the Pi4j community leaders, I published an article about a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introduces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
+
 ## jMonkeyEngine Contributions: 
 > Contributor `|` (2020 - Present) <br/>
 > [Contributed to jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges), an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design.
@@ -40,26 +56,6 @@ A Self-taught engineer with a strong background in embedded systems, microcontro
 - **Writing JavaDoc for an Old Animation System (MonkeyAnim)**: Writing JavaDocs for a 7-year-old undocumented and vague animation system (MonkeyAnim), and shipping [some](https://github.com/jMonkeyEngine/jmonkeyengine/pulls?q=is%3Apr+com.jme3.anim+is%3Aclosed+author%3Apavly-gerges) with the team guidance on the release [jMonkeyEngine v3.7.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.7.0-alpha1).
 
 - **Issues support and Community Management participations**: Issues of the Android Platform [jme3-android](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-android?author=pavly-gerges), and the core modules [jme3-core](https://github.com/jMonkeyEngine/jmonkeyengine/commits/master/jme3-core?author=pavly-gerges).
-
-----------------------------------------------------------------------------------------
-
-## Pi4j Contributions: 
-> Technical Writing `|` A Featured Project `|` (2022)
-
-Upon the request of one of the Pi4j community leaders, I published an article about a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introduces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
-
-----------------------------------------------------------------------------------------
-
-## Electrostat-Lab Open-source Contributions: 
-> OSS Embedded and Android Projects `|` (2020 - Present) <br/>
-> Led the design, development and deployment of open-source projects solving various real-life problems; see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
-
-* Leading the design philosophy, the active development, the maintenance, and the prototyping of the [Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) for distributed simulation systems; it's deemed to enhance system design and development compliancy to be **100%** based on the **IEEE-1516 standardization for distributed simulation systems**.
-* Led the design philosophy, development, testing, and maintenance of [Serial4j](https://github.com/Electrostat-Lab/Serial4j), a Java terminal I/O library for character devices on GNU/Linux systems, providing a model for the integration of custom hardware controllers into the already-existing jMonkeyEngine Games.
-* Led the design philosophy, development, testing, and deployment of [jSnapLoader](https://github.com/Electrostat-Lab/jSnapLoader), a high-performance cross-platform native dynamic libraries loader (DLL) for JVM and Android applications powered by an incremental loading system, stable release on maven-central reducing time porting the native Java frameworks to other platforms by approx. **30%** by its unique design philosophy that utilizes `Platform Predicates` instead of the dirty nested conditional statements.
-* Led the design philosophy, development, testing, and deployment of [Jector](https://github.com/Electrostat-Lab/Jector), a concurrency model API featuring the dependency injection and lazy execution patterns, on maven-central reducing the frame rendering latency and the frame drops by approx. **70%** of frames per a single second especially while loading assets by providing a concurrency programming model based on the dependency injection pattern.
-* Led the design philosophy, development, testing, and deployment of [Automata4j](https://github.com/Electrostat-Lab/Automata4j), a classic finite-state-automaton framework for JVM and Android applications, as a proof-of-concept (POF) for _the applied computational theory_ with an approx. **80%** compliancy on the formal logic of **_the Automata Theory_** minimizing the effort of implementing scientific prototypes and projects that are based on the Automata Theory (e.g., research projects based on the formal languages).
-* Led the design philosophy and development of [ffplay-ip-cam](https://github.com/Electrostat-Lab/ffplay-ip-cam), a complete structured script toolset for IP Cameras AV streaming, solving the issue of realtime streaming and recording video and audio on GNU/Linux systems using Smart IP Cameras over the RTSP Protocol.
 
 # Projects:
 ## Electrostatic-Sandbox SDK Suite
