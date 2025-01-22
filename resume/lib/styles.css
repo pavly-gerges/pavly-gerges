@@ -95,10 +95,6 @@ footer a {
     color: #ffd700;
 }
 
-.embedded-iframe {
-    border: none; /* Removes the border */
-}
-
 /* Responsive Design */
 @media (max-width: 768px) {
     .header-container {
