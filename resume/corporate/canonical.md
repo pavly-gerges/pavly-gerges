@@ -2,6 +2,6 @@
 </iframe>
 
 
-<iframe src="https://pavly-gerges.github.io/pavly-gerges/lib/footer.html" allowfullscreen class="embedded-iframe" style="./lib/styles.css">
+<iframe src="https://pavly-gerges.github.io/pavly-gerges/lib/footer.html" allowfullscreen>
 </iframe>
 
