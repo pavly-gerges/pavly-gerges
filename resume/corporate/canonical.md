@@ -1,4 +1,4 @@
-<iframe src="https://pavly-gerges.github.io/pavly-gerges/lib/header.html" allowfullscreen style="./lib/styles.css" >
+<iframe src="https://pavly-gerges.github.io/pavly-gerges/lib/header.html" allowfullscreen>
 </iframe>
 
 
