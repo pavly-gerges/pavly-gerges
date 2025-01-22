@@ -5,18 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pavly Gerges - Resume</title>
     <link rel="stylesheet" href="./lib/styles.css">
-    <script>
-      const iframe = document.getElementById('renderableContent');
-      iframe.addEventListener('load', function () {
-        try {
-          const iframeContent = iframe.contentWindow.document;
-          const contentHeight = iframeContent.body.scrollHeight; // Height of the content
-          iframe.style.height = contentHeight + 'px';
-        } catch (error) {
-          console.error('Cross-origin issue: Cannot access iframe content.');
-        }
-      });
-    </script>
 </head>
     
 <body>
