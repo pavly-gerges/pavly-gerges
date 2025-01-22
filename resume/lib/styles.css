@@ -95,6 +95,17 @@ footer a {
     color: #ffd700;
 }
 
+.embedded-iframe {
+     border: none; 
+     margin: 0; 
+     padding: 0; 
+     display: block; 
+     position: absolute; 
+     top: 0; left: 0; 
+     width: 100vw; 
+     height: 100vh;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .header-container {
