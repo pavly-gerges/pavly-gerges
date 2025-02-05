@@ -62,7 +62,7 @@ Upon the request of one of the Pi4j community leaders, I published an article ab
 > Internship `|` (2023 - Present) <br/>
 > Neurosurgery Assistant surgeon 
 
-Assisted in intricate neurospinal surgeries (e.g., Open spinal canal decompression, Lumbar Laminectomy and Diskectomy via a posterior lumbosacral approach), neurocranial surgeries (e.g., Open craniotomies for acute epidural hematomas via pterional approaches) and peripheral nerve entrapment surgeries (e.g., Open Carpal Tunnel Decompressions), in addition to basic history analysis, physical examination, patient monitoring techniques, and participating in the interpretation of the various diagnostic studies.
+Assisted in surgical planning and in-surgery techniques in intricate neurospinal surgeries (e.g., Open spinal canal decompression, Lumbar Laminectomy and Diskectomy via a posterior lumbosacral approach), neurocranial surgeries (e.g., Open craniotomies for acute epidural hematomas via pterional approaches) and peripheral nerve entrapment surgeries (e.g., Open Carpal Tunnel Decompressions), in addition to basic history analysis, physical examination, patient monitoring techniques, and participating in the interpretation of the various diagnostic studies.
 
 # Projects:
 ## Electrostatic-Sandbox SDK Suite
