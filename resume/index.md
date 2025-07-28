@@ -1,6 +1,6 @@
 # About Me:
 
-A self-taught embedded software engineer with a demonstrated background in embedded systems, microcontroller programming, and distributed simulation theory seeking to contribute to open-source and proprietary software in _Embedded Microcontroller Programming_, _Embedded Linux_, and _safety-critical systems engineering_ domains. 
+A self-taught embedded software engineer with a well-established history in embedded systems, microcontroller programming, and distributed simulation theory seeking to contribute to open-source and proprietary software in _Embedded Microcontroller Programming_, _Embedded Linux_, and _safety-critical systems engineering_ domains. 
 
 I essentially architect, implement, and maintain open-source embedded software products for **3+ years** taking ideas from observation and theory to real life fully-fledged deployable software to solve a wide range of low-level devastating problems in Embedded Systems industry (e.g., building distributed simulations, loading native libraries, managing fault-tolerance routines, dealing with structured concurrency, and re-programming bad fuse bits).
 
