@@ -1,6 +1,8 @@
 # About Me:
 
-A self-taught embedded software engineer with a demonstrated background in embedded systems, microcontroller programming, and distributed simulation theory seeking to contribute to open-source and proprietary software in _Embedded Microcontroller Programming_ and _Embedded Linux_ domains. I essentially architect, develop, implement, and maintain open-source embedded software products taking ideas from observation and theory to real life fully-fledged software to solve low-level devastating problems in Embedded Systems industry. My vision is to port **the Computational Theory** especially **the Automata Theory** to be an explicit part of the Embedded Software Design providing highly reliable scientific ways of Software Engineering and problem solving techniques.
+A self-taught embedded software engineer with a demonstrated background in embedded systems, microcontroller programming, and distributed simulation theory seeking to contribute to open-source and proprietary software in _Embedded Microcontroller Programming_, _Embedded Linux_, and _safety-critical systems engineering_ domains. I essentially architect, implement, and maintain open-source embedded software products taking ideas from observation and theory to real life fully-fledged software to solve low-level devastating problems in Embedded Systems industry. 
+
+My goal is to build an SDK Suite to bootstrap distributed simulation systems integrating both software systems and hardware switch and controls.
 
 # Skills:
 - **Programming and scripting**: Java - C/C++ - Kotlin - Bash (Shell Scripting) - Dot for architectural diagrams.
