@@ -15,7 +15,7 @@ A self-taught embedded software engineer with a demonstrated background in embed
 > Contributed to open-source projects through non-profit open-source organizations (e.g., jMonkeyEngine - Pi4j) and projects on the [Electrostat-Lab](https://github.com/Electrostat-Lab) organization.
 
 ## Electrostat-Lab Open-source Contributions: 
-> OSS Embedded and Android Projects `|` (2020 - Present) <br/>
+> Embedded Software Engineer `|` (2020 - Present) <br/>
 > Led the design, development and deployment of open-source projects solving various real-life problems; see the [projects section](https://github.com/orgs/Electrostat-Lab/repositories?language=&q=electrostat-lab&sort=&type=all).
 
 * Leading the design philosophy, the active development, the maintenance, and the prototyping of the [Electrostatic-Sandbox SDK](https://github.com/Electrostat-Lab/Electrostatic-Sandbox) for distributed simulation systems; it's deemed to enhance system design and development compliancy to be completely based on the **IEEE-1516 standardization for distributed simulation systems**.
@@ -28,12 +28,12 @@ A self-taught embedded software engineer with a demonstrated background in embed
 * Leading the active analysis, recovery of data, and simulation of a selected curated list of complex systems that had led to devastating catastrophic accidents in the past on the [Embedded-Cybernetics](https://github.com/Electrostat-Lab/Embedded-Cybernetics/); in addition to suggesting and re-iterating on some maneuvers that could be introduced to enhance the safety of the industry significantly by **95%** on the selected systems.
 
 ## Pi4j Contributions: 
-> Technical Writing `|` A Featured Project `|` (2022)
+> Project Technical Writer `|` A Featured Project `|` (2022)
 
 Upon the request of one of the Pi4j community leaders, I published an article about a hybrid project that utilizes both Pi4j-v1 and jMonkeyEngine framework as a [Pi4j-featured project](https://www.pi4j.com/featured-projects/joystick-game/); together with a full tutorial on hooking an Analog-Digital Circuit (MCP3008) onto the Raspberry Pi-4B GPIO through the Serial-Peripheral Interface (SPI) protocol. The tutorial also introduces insights on the conceptual model behind ADCs and DACs circuits. Collectively, the tutorial acts as a demo for I/O controlled Games using the [JoystickModule API](https://github.com/Electrostat-Lab/JoyStickModule).
 
 ## jMonkeyEngine Contributions: 
-> Contributor `|` (2020 - Present) <br/>
+> OSS Contributor `|` (2020 - Present) <br/>
 > [Contributed to jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges), an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design.
 
 - **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Designed, developed, tested, and actively maintaining a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android applications efficiently together with providing the interoperability with the Android Framework, and **accelerating the development time by 50% approx. when it comes to integrating OGLES renderers in the already-existing Android Apps**.
