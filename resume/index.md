@@ -39,19 +39,18 @@ Upon the request of one of the Pi4j community leaders, I published an article ab
 > OSS Contributor `|` (2020 - Present) <br/>
 > [Contributed to jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine/commits?author=pavly-gerges), an open-source code-first approach complete 3D game engine suite written primarily in Java with GLSL Java bindings based on the OpenGL pipelines and modular API design.
 
-- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Designed, developed, tested, and actively maintaining a GL Surface View handler component for embedding jMonkeyEngine Game Contexts into Android Layout Designs. Removing the burden to introduce jMonkeyEngine renderers in Android applications efficiently together with providing the interoperability with the Android Framework, and **accelerating the development time by 50% approx. when it comes to integrating OGLES renderers in the already-existing Android Apps**.
+- **[JmeSurfaceView](https://github.com/jMonkeyEngine/jmonkeyengine/tree/master/jme3-android/src/main/java/com/jme3/view/surfaceview)**: Designed, developed, tested, and actively maintaining a GL Surface View handler component for embedding a jMonkeyEngine game context into Android layout designs, removing the burden of integrating jMonkeyEngine renderer into Android applications efficiently, and providing interoperability with the Android Framework, **offering an accelerated development time by a rough estimate of 50%**.
   #### Brief list of features:
-  * Binding of the Android choreographer lifecycle to jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
-  * Splash Screen utility using CPU timeslices by initial frame pacing via Android Handlers.
-  * Utilities for static game states and game resources caching for activity life cycles.
-  * Verbose advanced error dialog for exception handling and reporting bugs.
-  * Prompt memory handlers bound to the activity life cycle and the static game states utilities.
+  * Integrated the Android choreographer lifecycle with the jMonkeyEngine lifecycle (Game Application Lifecycle Pattern).
+  * Developed utilities for splash screens and static game states through the Android activity lifecycle pattern.
+  * Built an advanced error handler for exception handling and reporting bugs.
+  * Integrated memory handlers with the activity lifecycle to prevent memory leaks.
 
-- **[ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665)**: Designed, developed, tested and actively maintaining a postprocessor filter GLSL API that controls the 3D-color-gamut contrast of a frame buffer based on a power law with clamp values applied on the RGBA color vectors, making it easier to adjust scene colors contrast out-of-the-box (e.g., in day-night transition scenes). The feature was integrated in [jMonkeyEngine v3.5.0-beta4](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-beta4).
+- **[ContrastAdjustmentFilter](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1665)**: Designed, developed, tested and actively maintaining a **GLSL-based post-processing scene filter API** that controls the **3D-color-gamut** values of the frame buffer textures based on an inverse power law algorithm applied on the RGBA color vectors. The feature was integrated in [jMonkeyEngine v3.5.0](https://github.com/jMonkeyEngine/jmonkeyengine/releases/tag/v3.5.0-stable).
   #### Brief list of features:
-  * 3D-color-gamut normalization to an input range.
-  * Sanity guards against negative floating points.
-  * Scalable inverse power law on the 3D-color gamut.
+  * Introduced a 3D-color-gamut normalization technique to an input range.
+  * Implemented an API sanity guards against negative floating points.
+  * Implemented a scaling inverse power law on the 3D-color gamut.
 
 - **[Android Audio Bug Fix](https://github.com/jMonkeyEngine/jmonkeyengine/pull/1956)**: Reproduced and resolved issues of file resources release and ownership in the Android vorbis audio decoder library. The issue was preventing Android users from playing OGG files on Android systems due to the [Android file descriptor sanitizer](https://android.googlesource.com/platform/bionic/+/master/docs/fdsan.md) which protects the Unix file systems against anti-patterns.
   #### Issues resolved:
