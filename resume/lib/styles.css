@@ -29,6 +29,7 @@ header {
     text-align: center;
 }
 .header-container {
+    background-image: url('https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg');
     display: flex;
     align-items: center;
     flex-wrap: wrap;
