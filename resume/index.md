@@ -1,4 +1,5 @@
 # About Me:
+> Keywords: Embedded Linux - Microcontroller Programming - Game Engines - Distributed Simulation
 
 A self-taught embedded software engineer with a well-established history in embedded systems, microcontroller programming, and distributed simulation theory seeking to contribute to open-source and proprietary software in _Embedded Microcontroller Programming_, _Embedded Linux_, and _safety-critical systems engineering_ domains. 
 
