@@ -1,5 +1,9 @@
 ## <img src="https://user-images.githubusercontent.com/60224159/202692478-bbf0d6d1-3eb6-405b-aa50-96a2dc0f6e23.svg" width=50 height=50></img> About: 
-Hey! Welcome. My name is Pavly Gerges. I am essentially a Self-taught Android and Embedded OSS Engineer from the medical profession seeking supremacy in Systems Engineering and Software Design through architecting, building, and deploying Open-Source projects. I'm very delved into with passion towards Open-Science, Open-Medicine, and Open-Technology.
+A self-taught embedded software engineer who have been architecting, implementing, and actively maintaining open-source
+embedded software products for over 3 years, in addition to contributing to jMonkeyEngine Game Engine for 4 years, taking ideas
+from observation and theory to deployable software to solve a variety of low-level and high-level problems in the embedded systems
+industry. My long-term vision is to build an SDK suite to bootstrap distributed simulation systems integrating both software systems and
+hardware controls
 
 ### <img src="https://user-images.githubusercontent.com/60224159/202689902-ca1164de-930f-43b8-8517-35c9c5751d06.svg" width=40 height=40></img> Languages: 
 <img src="https://user-images.githubusercontent.com/60224159/203134464-84e68cbd-4f7a-463b-9095-3627fe4ef233.svg" name="checked" width=20 height=20></img> Java -
